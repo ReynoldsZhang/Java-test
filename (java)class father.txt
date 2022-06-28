@@ -1,0 +1,23 @@
+package test;
+
+public class father {
+    int he = 12;//这些都是成员变量
+    double high;
+    private int iq;
+    final int ez = 12;//fianl修饰的方法无法被子类继承
+
+
+
+    public void mHe(){
+        int he = 190;
+        System.out.println(he);
+    }
+
+    /*
+    public father(int a,int b){
+        // int he = 112;
+        // double high = 1.85;
+        System.out.println(a+b);
+     */
+}
+
