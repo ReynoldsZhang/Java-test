@@ -1,3 +1,4 @@
+```java
 package test;
 
 public class Choose {
@@ -9,7 +10,7 @@ public class Choose {
     }
 
     /**
-     * 求解二元一次方程组
+     * 锟斤拷锟斤拷元一锟轿凤拷锟斤拷锟斤拷
      * @param arr1
      * @param arr2
      * @return
@@ -29,3 +30,4 @@ public class Choose {
         return new float[]{x, y};
     }
 }
+```

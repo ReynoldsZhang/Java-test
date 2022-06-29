@@ -1,3 +1,4 @@
+```java
 package test;
 
 public class hhh {
@@ -5,10 +6,10 @@ public class hhh {
 
         son side = new son();
         //App p=new App();
-        double sx = Math.random()*5;//Math.random()*5»áËæ»ú²úÉúÁãµ½ÎåÇø¼äÄÚµÄĞ¡Êı
-        int wdnmd = (int)(Math.random()*4+2);//ËüÄÜÈ¡Çø¼ä0µ½5µÄÕûÊı£¬ÇÒ¿ÉÈ¡Çø¼ä×ó±ßµÄÁÙ½çÖµ£¬²»¿ÉÈ¡Çø¼äÓÒ±ßµÄÁÙ½çÖµ
+        double sx = Math.random()*5;//Math.random()*5ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ãµ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Úµï¿½Ğ¡ï¿½ï¿½
+        int wdnmd = (int)(Math.random()*4+2);//ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½0ï¿½ï¿½5ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò¿ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ßµï¿½ï¿½Ù½ï¿½Öµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½Ò±ßµï¿½ï¿½Ù½ï¿½Öµ
         int op = 12;
-        Integer app = new Integer(5);//Integer ÊÇjava×Ô´øµÄ°ü×°Àà¡£
+        Integer app = new Integer(5);//Integer ï¿½ï¿½javaï¿½Ô´ï¿½ï¿½Ä°ï¿½×°ï¿½à¡£
         Double aqq = new Double(13.14);
         String pqq = new String("90mn90hoioi");
 
@@ -16,24 +17,24 @@ public class hhh {
 
         //side.mmm();
         //side.hH();
-        //side.father();//ÔÚ¶ÔÏóÄÚ²¿£¬Ë«µÈºÅÊÇÓÃÀ´ÅĞ¶ÏÁ½¸ö¶ÔÏóÄÚ´æµØÖ·ÊÇ·ñÒ»Ñù¡£.equalsÒ²ÊÇÓÃÀ´ÅĞ¶ÏÄÚ´æµØÖ·ÊÇ·ñÒ»Ñù
+        //side.father();//ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½Ú²ï¿½ï¿½ï¿½Ë«ï¿½Èºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ğ¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú´ï¿½ï¿½Ö·ï¿½Ç·ï¿½Ò»ï¿½ï¿½ï¿½ï¿½.equalsÒ²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ğ¶ï¿½ï¿½Ú´ï¿½ï¿½Ö·ï¿½Ç·ï¿½Ò»ï¿½ï¿½
         //side.mHe();
         //side.mme();
 
         /*
-        System.out.println(app.doubleValue());//doubleValueÎªIntegerÀïÃæ×Ô´øµÄ·µ»ØÖµµÄ×Ô´ødoubleÀàĞÍ·½·¨¡£
+        System.out.println(app.doubleValue());//doubleValueÎªIntegerï¿½ï¿½ï¿½ï¿½ï¿½Ô´ï¿½ï¿½Ä·ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½Ô´ï¿½doubleï¿½ï¿½ï¿½Í·ï¿½ï¿½ï¿½ï¿½ï¿½
         System.out.println(app.MAX_VALUE);
         System.out.println(app.MIN_VALUE);
-        System.out.println(pqq.length());//´ËÎªÊä³ö×Ö·û´®µÄ³¤¶È
-        System.out.println(pqq);//Ö±½ÓÊä³ö¸³Öµ
-        System.out.println(pqq.substring(2,5));//¡£substringµÄ·½·¨Îªaµ½bÇø¼äÄÚµÄÖµ[a£¬b£©
-        System.out.println(pqq.substring(2));//ÕâÀïÊä³ö´Ó2Çø¼ä¿ªÊ¼ÍùºóµÄÖµ
-        System.out.println(pqq.substring(2,10));//²»ÄÜÊä³ö£¬³¬¹ıÇø¼äµÄÊı
+        System.out.println(pqq.length());//ï¿½ï¿½Îªï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½Ä³ï¿½ï¿½ï¿½
+        System.out.println(pqq);//Ö±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµ
+        System.out.println(pqq.substring(2,5));//ï¿½ï¿½substringï¿½Ä·ï¿½ï¿½ï¿½Îªaï¿½ï¿½bï¿½ï¿½ï¿½ï¿½ï¿½Úµï¿½Öµ[aï¿½ï¿½bï¿½ï¿½
+        System.out.println(pqq.substring(2));//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½2ï¿½ï¿½ï¿½ä¿ªÊ¼ï¿½ï¿½ï¿½ï¿½ï¿½Öµ
+        System.out.println(pqq.substring(2,10));//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         System.out.println(pqq.substring(5,8));
         System.out.println(pqq.substring(4,5));
         System.out.println(pqq.substring(4,4));
-        System.out.println(pqq.indexOf("90"));//ËüµÄ×÷ÓÃÊÊÓÃÓÚ²éÕÒÄ³Ò»¸ö×Ô¸º»òÕß×Ö·û´®£¬ÔÚÀïÃæÊ×´Î³öÏÖµÄÎ»ÖÃ
-        System.out.println("9090".compareTo("9090"));//×Ö·û´®±È½Ï´óĞ¡
+        System.out.println(pqq.indexOf("90"));//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú²ï¿½ï¿½ï¿½Ä³Ò»ï¿½ï¿½ï¿½Ô¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×´Î³ï¿½ï¿½Öµï¿½Î»ï¿½ï¿½
+        System.out.println("9090".compareTo("9090"));//ï¿½Ö·ï¿½ï¿½ï¿½ï¿½È½Ï´ï¿½Ğ¡
         System.out.println("9090".compareTo("oioi"));
         System.out.println("adm".compareTo("abc"));
         System.out.println("aaaaaa".compareTo("aaa"));
@@ -42,14 +43,15 @@ public class hhh {
         //System.out.println(side.high);
         // System.out.println(side.ez);
         //System.out.println(3+app);
-        //System.out.println(aqq.intValue());//²¢·ÇËÄÉáÎåÈë£¬Ö»ÊÇÈ¡ÕûÊı²¿·Ö
+        //System.out.println(aqq.intValue());//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë£¬Ö»ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         //System.out.println(sx);
         //System.out.println(wdnmd);
-        //System.out.println(Math.abs(-1234));//¾ø¶ÔÖµ
-        //System.out.println(Math.ceil(12.53));//ÏòÉÏÈ¡Õû£¬È¡´óÓÚÕâ¸öÊı×ÖµÄÕûÊı
-        //System.out.println(Math.floor(-383.9999));//ÏòÏÂÈ¡Õû£¬ È¡Ğ¡ÓÚÕâ¸öÊı×ÓµÄÕûÊı
-        //System.out.println(Math.round(123.999));//ËÄÉáÎåÈë
-        //System.out.println(Math.pow(3.1415927,3.1415926));//¼ÆËã´Î·½3.1415927Îªµ×Êı£¬3.1415926ÎªÖ¸Êı
-        //System.out.println(Math.sqrt(343213.2321232));//¿ª·½
+        //System.out.println(Math.abs(-1234));//ï¿½ï¿½ï¿½ï¿½Öµ
+        //System.out.println(Math.ceil(12.53));//ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½ï¿½
+        //System.out.println(Math.floor(-383.9999));//ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½ È¡Ğ¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Óµï¿½ï¿½ï¿½ï¿½ï¿½
+        //System.out.println(Math.round(123.999));//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+        //System.out.println(Math.pow(3.1415927,3.1415926));//ï¿½ï¿½ï¿½ï¿½Î·ï¿½3.1415927Îªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½3.1415926ÎªÖ¸ï¿½ï¿½
+        //System.out.println(Math.sqrt(343213.2321232));//ï¿½ï¿½ï¿½ï¿½
     }
 }
+```

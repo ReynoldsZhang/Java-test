@@ -1,3 +1,4 @@
+```java
 package test;
 
 
@@ -17,7 +18,7 @@ public class son extends father{
         System.out.println(high);
     }
 
-    public void mmm(){//想调用父类的属性和方法，需要在子类中创建一个新的方法且用super.ababab。
+    public void mmm(){//锟斤拷锟斤拷酶锟斤拷锟斤拷锟斤拷锟皆和凤拷锟斤拷锟斤拷锟斤拷要锟斤拷锟斤拷锟斤拷锟叫达拷锟斤拷一锟斤拷锟铰的凤拷锟斤拷锟斤拷锟斤拷super.ababab锟斤拷
         System.out.println(super.he);
     }
 
@@ -27,4 +28,4 @@ public class son extends father{
 
 
 }
-
+```

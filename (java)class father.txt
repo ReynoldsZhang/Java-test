@@ -1,10 +1,11 @@
+```java
 package test;
 
 public class father {
-    int he = 12;//ÕâÐ©¶¼ÊÇ³ÉÔ±±äÁ¿
+    int he = 12;//ï¿½ï¿½Ð©ï¿½ï¿½ï¿½Ç³ï¿½Ô±ï¿½ï¿½ï¿½ï¿½
     double high;
     private int iq;
-    final int ez = 12;//fianlÐÞÊÎµÄ·½·¨ÎÞ·¨±»×ÓÀà¼Ì³Ð
+    final int ez = 12;//fianlï¿½ï¿½ï¿½ÎµÄ·ï¿½ï¿½ï¿½ï¿½Þ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì³ï¿½
 
 
 
@@ -21,3 +22,4 @@ public class father {
      */
 }
 
+```

@@ -1,6 +1,7 @@
+```java
 package test;
 
-public class Ó´Î÷{
+public class Ó´ï¿½ï¿½{
 
     public static void main(String[] args) {
         a1 m = new a1();
@@ -15,15 +16,15 @@ public class Ó´Î÷{
 
         mn.yx = 4321;
         nm.yx = 12346;
-        m.yx = 1;//±»staticÐÞÊÎµÄ¶ÔÏó£¬×îÐÂµÄ¸³Öµ£¬½ÓÏÂÀ´¾ÍÓÃ×îÐÂµÄ
+        m.yx = 1;//ï¿½ï¿½staticï¿½ï¿½ï¿½ÎµÄ¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÂµÄ¸ï¿½Öµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Âµï¿½
         m.setQ(234);
         //wow.a1();
         //System.out.println(mn.yx);
         //System.out.println(nm.yx);
-        //System.out.println(m.xx);Ã»·¨µ÷ÓÃa1ÖÐµÄprivate±äÁ¿
+        //System.out.println(m.xx);Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½a1ï¿½Ðµï¿½privateï¿½ï¿½ï¿½ï¿½
         //System.out.println(m.getQ());
 
-        //×î´ó¹«Ô¼ÊýºÍ×îÐ¡¹«±¶Êý
+        //ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         /*
         int min = 21;
         int max = 12;
@@ -33,9 +34,9 @@ public class Ó´Î÷{
             up = min;
             for(int nt = up; nt >= 1; nt--){
                 if(min%nt == 0 && max%nt == 0){
-                    System.out.println("×î´ó¹«Ô¼Êý¾ÍÊÇ:" + nt);
+                    System.out.println("ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½:" + nt);
                     tui = min * max;
-                    System.out.println("×îÐ¡¹«±¶ÊýÊÇ£º"+ tui/nt);
+                    System.out.println("ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç£ï¿½"+ tui/nt);
                     break;
                 }
             }
@@ -44,9 +45,9 @@ public class Ó´Î÷{
             up = max;
             for(int nt = up; nt >= 1; nt--){
                 if(min%nt == 0 && max%nt == 0){
-                    System.out.println("×î´ó¹«Ô¼Êý¾ÍÊÇ:" + nt);
+                    System.out.println("ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½:" + nt);
                     tui = min * max;
-                    System.out.println("×îÐ¡¹«±¶ÊýÊÇ£º"+ tui/nt);
+                    System.out.println("ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç£ï¿½"+ tui/nt);
                     break;
                 }
             }
@@ -54,21 +55,21 @@ public class Ó´Î÷{
          */
 
         /*
-        //ÅÐ¶ÏÒ»¸öÊýÊÇÖÊÊý»¹ÊÇºÍÊý
+        //ï¿½Ð¶ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Çºï¿½ï¿½ï¿½
         int hd = 12121;
         for(int nh = 2; nh < hd; nh++) {
             if (hd % nh == 0) {
-                System.out.println(hd + "ÊÇºÍÊý");
-                System.out.println("Õâ¸öÄÜ¹»½«Õâ¸öÊýÕû³ýµÄÊýÊÇ£º"+nh);
+                System.out.println(hd + "ï¿½Çºï¿½ï¿½ï¿½");
+                System.out.println("ï¿½ï¿½ï¿½ï¿½Ü¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç£ï¿½"+nh);
                 break;
             }
             if(hd - 1 == nh){
-                System.out.println(hd + "ÎªÖÊÊý");
+                System.out.println(hd + "Îªï¿½ï¿½ï¿½ï¿½");
             }
         }
         */
 
-        String[] arr = {"!!!", "*$£¤%$#!", "we", "are", "the"};
+        String[] arr = {"!!!", "*$ï¿½ï¿½%$#!", "we", "are", "the"};
         for (String lolo : arr) {
             // System.out.println(lolo);
         }
@@ -89,9 +90,9 @@ public class Ó´Î÷{
             for(int wa = 0; wa < AI[kill].length; wa++){
                 System.out.print(AI[kill][wa] + "\t");
             }
-            System.out.println();//Õâ¸öÓï¾äµÄ¹¦ÄÜ¾ÍÊÇ»»ÐÐ
+            System.out.println();//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¹ï¿½ï¿½Ü¾ï¿½ï¿½Ç»ï¿½ï¿½ï¿½
         }
     }
 }
 
-
+```

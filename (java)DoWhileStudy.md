@@ -1,16 +1,18 @@
-//do whileя╜╩╥╨мwhileя╜╩╥гЬ╠Птзсзг╟уъохж╢пп╨Сеп╤оё╛╨Суъохеп╤отыж╢пп
+```java
+//do whileя╜О©╫О©╫О©╫О©╫whileя╜О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫г╟О©╫О©╫О©╫О©╫ж╢О©╫п╨О©╫О©╫п╤оёО©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫п╤О©╫О©╫О©╫ж╢О©╫О©╫
 public static void main(String[] args) {
-        //йДЁЖнЕ╢нhello world
-        //forсО╬Дй╣ож
+        //О©╫О©╫О©╫О©╫О©╫О©╫hello world
+        //forО©╫О©╫О©╫й╣О©╫О©╫
         for (int i = 0; i < 5; i++) {
             System.out.println("hello world");
         }
         System.out.println("_________");
 
-        //do whileсО╬Дй╣ож
+        //do whileО©╫О©╫О©╫й╣О©╫О©╫
         int j = 1;
         do {
             System.out.println("hello world");
             j++;
         }while (j <= 5);
     }
+    ```

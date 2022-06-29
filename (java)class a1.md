@@ -1,10 +1,11 @@
+```java
 package test;
 
 public class a1 {
 
     String name;
-    int money = 100000;//³ÉÔ±±äÁ¿
-    static int abcd = 12345;//¾²Ì¬±äÁ¿£¨±»staticĞŞÊÎ£©ÄÜ±»£¨a1.ÊôĞÔ£©µ÷ÓÃ£¬Ò²ÄÜ£¨Àà.ÊôĞÔ£©µ÷ÓÃ
+    int money = 100000;//ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½
+    static int abcd = 12345;//ï¿½ï¿½Ì¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½staticï¿½ï¿½ï¿½Î£ï¿½ï¿½Ü±ï¿½ï¿½ï¿½a1.ï¿½ï¿½ï¿½Ô£ï¿½ï¿½ï¿½ï¿½Ã£ï¿½Ò²ï¿½Ü£ï¿½ï¿½ï¿½.ï¿½ï¿½ï¿½Ô£ï¿½ï¿½ï¿½ï¿½ï¿½
     static int yx ;
     private int xx;
     private int size;
@@ -35,22 +36,22 @@ public class a1 {
 
 
 
-    public void setQ(int xx){//privateĞŞÊÎÖ®ºó¿ÉÒÔÕâÑù£¬ÔÚÁíÒ»±ßÔÚÖØĞÂ¸³Öµ
+    public void setQ(int xx){//privateï¿½ï¿½ï¿½ï¿½Ö®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¸ï¿½Öµ
         this.xx = xx;
     }
 
-    public int  getQ(){//Ò²¿ÉÒÔÕâÑù£¬Ö±½Óµ÷ÓÃ
+    public int  getQ(){//Ò²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö±ï¿½Óµï¿½ï¿½ï¿½
         return xx;
     }
 
-    public static void qaz(){//¾²Ì¬·½·¨   ÄÜÖ±½Óµ÷ÓÃÀàÀïÃæµÄ¾²Ì¬±äÁ¿£¬µ«ÊÇ²»ÄÜµ÷ÓÃ·Ç¾²Ì¬±äÁ¿
+    public static void qaz(){//ï¿½ï¿½Ì¬ï¿½ï¿½ï¿½ï¿½   ï¿½ï¿½Ö±ï¿½Óµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¾ï¿½Ì¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç²ï¿½ï¿½Üµï¿½ï¿½Ã·Ç¾ï¿½Ì¬ï¿½ï¿½ï¿½ï¿½
         System.out.println(abcd);
     }
 
     public void setMoney() {
         int a=0;
         System.out.println(a);
-        System.out.println(abcd);//ÔÚ·Ç¾²Ì¬·½·¨ÖĞ£¬¾²Ì¬ºÍ·Ç¾²Ì¬½Ô¿Éµ÷ÓÃ
+        System.out.println(abcd);//ï¿½Ú·Ç¾ï¿½Ì¬ï¿½ï¿½ï¿½ï¿½ï¿½Ğ£ï¿½ï¿½ï¿½Ì¬ï¿½Í·Ç¾ï¿½Ì¬ï¿½Ô¿Éµï¿½ï¿½ï¿½
 
     }
 
@@ -60,4 +61,4 @@ public class a1 {
 
     }
 }
-
+```

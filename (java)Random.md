@@ -1,3 +1,4 @@
+```java
 package train;
 
 import java.util.ArrayList;
@@ -7,8 +8,8 @@ import java.util.Scanner;
 public class random {
     public static void main(String[] args) {
         ArrayList<String> arrayList = new ArrayList<>();
-        Collections.addAll(arrayList, "TonyZ",   "Justin", "Edwin",  "TonyS");//Õâ¿ÉÒÔ¸Ä
-        System.out.print("ÊäÈë·ÖÀà¸öÊý£º ");
+        Collections.addAll(arrayList, "TonyZ",   "Justin", "Edwin",  "TonyS");//ï¿½ï¿½ï¿½ï¿½Ô¸ï¿½
+        System.out.print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ");
         System.out.println(randomSplit(arrayList, new Scanner(System.in).nextInt()));
     }
 
@@ -25,7 +26,7 @@ public class random {
 
     private static ArrayList<ArrayList<String>> split(ArrayList<String> original, int num) throws Exception{
         if (original.size() < num){
-            throw new SplitException("Can't split: Too many groups. ÄãÓ¦¸ÃÊäÈëÉÙÓÚ " + (original.size() + 1) + " ¸ö×é.");
+            throw new SplitException("Can't split: Too many groups. ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ " + (original.size() + 1) + " ï¿½ï¿½ï¿½ï¿½.");
         }
         final int MEMBER = original.size()/num;
         final int MORE = original.size() % num;
@@ -59,3 +60,4 @@ public class random {
         }
     }
 }
+```

@@ -1,3 +1,4 @@
+```java
 package test;
 
 public class a{
@@ -6,7 +7,7 @@ public class a{
 
         a1 n = new a1();
         a1 car = new a1();
-        String pp = new String("hjh");//因为a1中有String name，所以可以直接这样子弄。这时候用.equals只判断表面值是否相同
+        String pp = new String("hjh");//锟斤拷为a1锟斤拷锟斤拷String name锟斤拷锟斤拷锟皆匡拷锟斤拷直锟斤拷锟斤拷锟斤拷锟斤拷弄锟斤拷锟斤拷时锟斤拷锟斤拷.equals只锟叫断憋拷锟斤拷值锟角凤拷锟斤拷同
         String pg = new String("hjh");
 
         boolean iji = pp.equals(pg);
@@ -25,12 +26,13 @@ public class a{
 
         int a = 3;
         int b = 9;
-        boolean m = a == b;//双等号在判断数据基本类型时，是判断两个数据大小是否相同(双等号不仅适用于int，double类型，也适用于string类型
+        boolean m = a == b;//双锟饺猴拷锟斤拷锟叫讹拷锟斤拷锟捷伙拷锟斤拷锟斤拷锟斤拷时锟斤拷锟斤拷锟叫讹拷锟斤拷锟斤拷锟斤拷锟捷达拷小锟角凤拷锟斤拷同(双锟饺号诧拷锟斤拷锟斤拷锟斤拷锟斤拷int锟斤拷double锟斤拷锟酵ｏ拷也锟斤拷锟斤拷锟斤拷string锟斤拷锟斤拷
         //System.out.println(m);
 
         String c = "jjj", d = "ooo";
-        boolean wo = c.equals(d);//.equals只能判断string类型
+        boolean wo = c.equals(d);//.equals只锟斤拷锟叫讹拷string锟斤拷锟斤拷
         //System.out.println(n);
 
     }
 }
+```
