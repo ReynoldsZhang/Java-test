@@ -1,4 +1,6 @@
 ```java
+import java.lang.Thread;
+
 public class Hero {
     private String name;
     private int hitPoints;
