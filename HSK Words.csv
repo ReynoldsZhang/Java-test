@@ -1,0 +1,2244 @@
+adj,一样,yīyàng,same
+adj,坏,huài,Bad
+adj,好听,hǎotīng,Nice
+adj,干,gān,dry
+adj,干净,gānjìng,clean
+adj,有名,yǒumíng,famous
+adj,有用,yǒuyòng,useful
+adj,渴,kě,thirsty
+adj,病,bìng,"disease, sick"
+adj,认真,rènzhēn,serious
+adj,重,zhòng,weight
+adj,重要,zhòngyào,important
+adj,难,nán,difficult
+adj,高,gāo,high
+adv,先,xiān,firstly
+adv,最好,zuìhǎo,the best
+adv,地,de,structural particle
+adv,还有,háiyǒu,and also
+adv,马上,mǎshàng,immediately
+mv,能,néng,"can, ba able to"
+n,动作,dòngzuò,action
+n,地,dè,Ground
+n,地上,dìshang,On the ground
+n,地图,dìtú,map
+n,地方,dìfang,place
+n,地点,dìdiǎn,location
+n,女生,nǚshēng,girl
+n,教学楼,jiàoxuélóu,Teaching building
+n,新年,xīnnián,new Year
+n,旁边,pángbiān,next to
+n,白天,báitiān,day time
+n,知识,zhīshi,Knowledge
+n,网上,wǎngshàng,Online
+n,网友,wǎngyǒu,Netizen
+n,钱包,qiánbāo,wallet
+n,风,fēng,wind
+n,马路,mǎlù,road
+phrase,一下儿,yīxiàr,a while
+phrase,一会儿,yīhuìr,A while
+phrase,一块儿,yīkuàir,Together
+phrase,干什么,gànshénme,What to do
+phrase,没事儿,méishìr,It's okay
+phrase,没什么,méishénme,It's nothing
+pron,别人,biéren,other people
+pron,别的,biéde,Other
+v,下车,xiàchē,get off
+v,关,guān,to turn off
+v,关上,guānshàng,to close
+v,准备,zhǔnbèi,to get ready
+v,听写,tīngxiě,dictation
+v,回答,huídá,to reply
+v,干,gàn,"to do, to work"
+v,开玩笑,kāiwánxiào,to make a joke
+v,得到,dédào,to get
+v,忘,wàng,to forget
+v,忘记,wàngjì,forgot
+v,找,zhǎo,fto Find
+v,找到,zhǎodào,found
+v,拿,ná,to take
+v,放,fàng,to put
+v,放假,fàngjià,holiday
+v,放学,fàngxué,After school
+v,生病,shēngbìng,sick
+v,知道,zhīdào,to know
+v,考,kǎo,to have a test
+v,考试,kǎoshì,examination
+v,记,jì,to remember
+v,记住,jìzhu,to remember
+v,记得,jìde,to remember
+v,试,shì,"to test, to try"
+v,说话,shuōhuà,to speak
+v,请,qǐng,please
+v,请假,qǐngjià,Ask for leave
+v,读,dú,"to read, to study"
+v,读书,dúshū,to read
+v,还,huán,also
+v,进,jìn,to  enter
+v,进去,jìnqù,Go in
+v,进来,jìnlái,Come in
+adj,好,hǎo,good
+adj,不大,bùdà,Not big
+adj,不对,bùduì,wrong
+adj,中,zhōng,in the middle
+adj,冷,lěng,cold
+adj,外,wài,outer
+adj,多,duō,many
+adj,大,dà,Big
+adj,好吃,hǎochī,tasty
+adj,好玩儿,hǎowánr,Fun
+adj,好看,hǎokàn,good looking
+adj,对,duì,Correct
+adj,小,xiǎo,small
+adj,少,shǎo,less
+adj,忙,máng,busy
+adj,快,kuài,fast
+adj,慢,màn,slow
+adj,新,xīn,new
+adj,早,zǎo,early
+adj,晚,wǎn,late
+adj,热,rè,hot
+adj,白,bái,White
+adj,累,lèi,tired
+adj,老,lǎo,old
+adj,贵,guì,expensive
+adj,远,yuǎn,far
+adj,错,cuò,wrong
+adj,饿,è,hungry
+adj,高兴,gāoxìng,happy
+adv,一起,yīqǐ,together
+adv,一边,yībiān,One side
+adv,不,bù,Do not
+adv,也,yě,also
+adv,再,zài,again
+adv,最,zuì,mothe st
+adv,别,bié,do not
+adv,太,tài,too
+adv,就,jiù,then
+adv,常,cháng,often
+adv,常常,chángcháng,"often, frequently"
+adv,很,hěn,very
+adv,有时候/有时,yǒushíhou/ yǒushí,Sometimes
+adv,正,zhèng,positive
+adv,正在,zhèngzài,in the process of
+adv,没,méi,No
+adv,没有,méiyǒu,No
+adv,真,zhēn,"real, true"
+adv,还,hái,also
+adv,还是,háishi,still
+adv,都,dōu,"All, both"
+adv,非常,fēicháng,extremely
+conj,和,hé,"with, and"
+mv,会,huì,"be able to, will"
+mw,个,gè,a
+mw,元,yuán,yuan
+mw,分,fēn,Minute
+mw,半,bàn,half
+mw,块,kuài,Piece
+mw,本,běn,measure word
+mw,杯,bēi,cup
+mw,次,cì,Times
+mw,毛,máo,measure word
+mw,间,jiān,measure word
+n,一半,yībàn,half
+n,一生,yīshēng,lifetime
+n,上,shàng,up
+n,上午,shàngwǔ,morning
+n,上次,shàngcì,Last time
+n,上边,shàngbian,Above
+n,下午,xiàwǔ,in the afternoon
+n,下次,xiàcì,Next time
+n,下边,xiàbian,below
+n,东,dōng,east
+n,东西,dōngxi,thing
+n,东边,dōngbian,East side
+n,中午,zhōngwǔ,noon
+n,中国,Zhōngguó,China
+n,中学,zhōngxué,Middle school
+n,中学生,zhōngxuéshēng,middle School student
+n,中文,Zhōngwén,Chinese
+n,中间,zhōngjiān,"intermediate, middle"
+n,书,shū,book
+n,书包,shūbāo,school bag
+n,书店,shūdiàn,bookstore
+n,事,shì,thing
+n,人,rén,people
+n,今天,jīntiān,today
+n,今年,jīnnián,this year
+n,你,nǐ,you
+n,你们,nǐmen,you (plural)
+n,儿子,érzi,son
+n,先生,xiānsheng,"Mr, husband"
+n,最后,zuìhòu,At last
+n,前,qián,"before, front"
+n,前天,qiántiān,The day before yesterday
+n,前边,qiánbian,Front side
+n,包子,bāozi,bun
+n,北,běi,north
+n,北京,Běijīng,Beijing
+n,北边,běibiān,North side
+n,医院,yīyuàn,hospital
+n,午饭,wǔfàn,lunch
+n,半天,bàntiān,long time
+n,半年,bànnián,Half a year
+n,南,nán,south
+n,南边,nánbian,South side
+n,去年,qùnián,last year
+n,口,kǒu,mouth
+n,右,yòu,right
+n,右边,yòubian, side
+n,号,hào,number
+n,名字,míngzi,first name
+n,后,hòu,"behind, after"
+n,后天,hòutiān,the day after tomorrow
+n,后边,hòubian,behind
+n,哥哥,gēge,older brother
+n,商场,shāngchǎng,the mall
+n,商店,shāngdiàn,store
+n,国,guó,country
+n,国外,guówài,foreign
+n,国家,guójiā,country
+n,图书馆,túshūguǎn,library
+n,外国,wàiguó,Foreign country
+n,外语,wàiyǔ,foreign language
+n,外边,wàibian,outside
+n,大学,dàxué,the University
+n,大学生,dàxuéshēng,College Students
+n,天,tiān,day
+n,天气,tiānqì,weather
+n,女,nǚ,Female
+n,女人,nǚrén,woman
+n,女儿,nǚ'ér,daughter
+n,女孩儿,nǚháir,Girl
+n,女朋友,nǚpéngyou,girlfriend
+n,奶,nǎi,milk
+n,奶奶,nǎinai,grandmother
+n,妈妈,māma,mom
+n,妹妹,mèimei,younger sister
+n,姐姐,jiějie,sister
+n,字,zì,word
+n,学校,xuéxiào,school
+n,学生,xuésheng,student
+n,学院,xuéyuàn,College
+n,孩子,háizi,child
+n,家,jiā,Home
+n,家人,jiārén,family member
+n,家里,jiālǐ,Home
+n,小姐,xiǎojie,Miss
+n,小学,xiǎoxué,primary school
+n,小学生,xiǎoxuéshēng,Elementary school student
+n,小孩儿,xiǎoháir,child
+n,小时,xiǎoshí,hour
+n,小朋友,xiǎopéngyǒu,"Kids, children"
+n,山,shān,mountain
+n,岁,suì,year old
+n,工人,gōngrén,worker
+n,工作,gōngzuò,jobs
+n,左,zuǒ,left
+n,左边,zuǒbian,left side
+n,年,nián,year
+n,床,chuáng,bed
+n,弟弟,dìdi,younger brother
+n,您,nín,you(polite)
+n,房子,fángzi,house
+n,房间,fángjiān,room
+n,手,shǒu,hand
+n,手机,shǒujī,Cell phone
+n,日,rì,"day, sun"
+n,日期,rìqī,date
+n,早上,zǎoshang,morning
+n,早饭,zǎofàn,breakfast
+n,时候,shíhou,time
+n,时间,shíjiān,time
+n,明天,míngtiān,tomorrow
+n,明年,míngnián,next year
+n,星期,xīngqī,week
+n,星期天,Xīngqītiān,Sunday
+n,星期日,Xīngqīrì,Sunday
+n,昨天,zuótiān,yesterday
+n,晚上,wǎnshang,evening
+n,晚饭,wǎnfàn,dinner
+n,月,yuè,"month, moon"
+n,朋友,péngyou,friend
+n,本子,běnzi,book
+n,机场,jīchǎng,airport
+n,机票,jīpiào,Air tickets
+n,杯子,bēizi,cup
+n,树,shù,tree
+n,桌子,zhuōzi,table
+n,楼,lóu,floor
+n,楼上,lóushàng,upstairs
+n,楼下,lóuxià,downstairs
+n,歌,gē,song
+n,水,shuǐ,water
+n,水果,shuǐguǒ,fruit
+n,汉字,hànzì,Chinese character
+n,汉语,Hànyǔ,Chinese
+n,汽车,qìchē,car
+n,洗手间,xǐshǒujiān,Restroom
+n,火车,huǒchē,train
+n,点,diǎn,o'clock
+n,爱好,àihào,Hobby
+n,爷爷,yéye,grandfather
+n,爸爸,bàba,father
+n,牛奶,niúnǎi,milk
+n,现在,xiànzài,right now
+n,班,bān,class
+n,球,qiú,ball
+n,生日,shēngrì,birthday
+n,电,diàn,Electricity
+n,电影,diànyǐng,movie
+n,电影院,diànyǐngyuàn,cinema
+n,电视,diànshì,TV
+n,电视机,diànshìjī,TV set
+n,电脑,diànnǎo,computer
+n,电话,diànhuà,phone
+n,男,nán,male
+n,男人,nánrén,man
+n,男孩儿,nánháir,boy
+n,男朋友,nánpéngyou,boyfriend
+n,男生,nánshēng,Boy
+n,病人,bìngrén,patient
+n,票,piào,ticket
+n,站,zhàn,station
+n,米饭,mǐfàn,rice
+n,老人,lǎorén,Old man
+n,老师,lǎoshī,teacher
+n,肉,ròu,meat
+n,花,huā,flower
+n,茶,chá,tea
+n,菜,cài,dish
+n,衣服,yīfu,clothes
+n,西,xī,west  
+n,西边,xībiān,West side
+n,话,huà,words
+n,课,kè,class
+n,课文,kèwén,text
+n,课本,kèběn,textbook
+n,路,lù,road
+n,路上,lùshang,On the road
+n,路口,lùkǒu,intersection
+n,身上,shēnshang,on the body
+n,身体,shēntǐ,body
+n,车,chē,car
+n,车上,chē shàng,on the car
+n,车票,chēpiào,ticket
+n,车站,chēzhàn,station
+n,里,lǐ,in
+n,里边,lǐbian,inside
+n,钱,qián,money
+n,门,mén,door
+n,门口,ménkǒu,Doorway
+n,门票,ménpiào,Tickets
+n,雨,yǔ,rain
+n,面包,miànbāo,bread
+n,面条,miàntiáo,noodles
+n,页,yè,page
+n,飞机,fēijī,aircraft
+n,饭,fàn,rice
+n,饭店,fàndiàn,restaurant
+n,鸡蛋,jīdàn,egg
+num,一,yī,One
+num,七,qī,Seven
+num,三,sān,three
+num,两,liǎng,Two
+num,九,jiǔ,nine
+num,二,èr,two
+num,五,wǔ,Fives
+num,八,bā,Eight
+num,六,liù,six
+num,十,shí,ten
+num,四,sì,four
+num,百,bǎi,hundred
+num,零,líng,zero
+part,了,le,particle
+part,吗,ma,particle
+part,吧,ba,particle
+part,呢,ne,particle
+part,的,de,particle
+part,着,zhe,particle
+part,过,guò,particle
+phrase,一些,yīxiē,some
+phrase,一点儿,yīdiǎnr,a little
+phrase,不客气,bùkèqi,You're welcome
+phrase,对不起,duìbuqǐ,I am sorry
+phrase,是不是,shìbùshì,isn't it
+phrase,有些,yǒuxiē,some
+phrase,有的,yǒude,some
+phrase,真的,zhēn de,Really
+prep,从,cóng,From
+prep,比,bǐ,compare to
+prep,跟,gēn,with
+pron,什么,shénme,what
+pron,他,tā,"he, him"
+pron,他们,tāmen,they
+pron,们,men,They
+pron,几,jǐ,"a few, how many"
+pron,哪,nǎ,where
+pron,哪些,nǎxiē,Which
+pron,哪儿,nǎr,where
+pron,哪里,nǎlǐ,where
+pron,多少,duōshao,How many
+pron,她,tā,"she, her"
+pron,她们,tāmen,"they, them"
+pron,怎么,zěnme,how to
+pron,我,wǒ,I
+pron,我们,wǒmen,"we, us"
+pron,谁,shéi,Who
+pron,这,zhè,This
+pron,这些,zhèxiē,These 
+pron,这儿,zhèr,here
+pron,这边,zhèbiān,Here
+pron,这里,zhèlǐ,Here
+pron,那,nà,that
+pron,那些,nàxiē,Those
+pron,那儿,nàr,there
+pron,那边,nàbian,there
+pron,那里,nàli,There
+pron,第,dì,First
+suffix,子,zǐ,child
+v,上学,shàngxué,go to school
+v,上班,shàngbān,Go to work
+v,上网,shàngwǎng,Go online
+v,上课,shàngkè,Go to class
+v,上车,shàngchē,get on the car
+v,下,xià,"get off, go down"
+v,下班,xiàbān,Off work
+v,下课,xiàkè,End of get out of class
+v,下雨,xiàyǔ,rain
+v,不用,bùyòng,No need to
+v,买,mǎi,to buy
+v,介绍,jièshào,to introduce
+v,休息,xiūxi,to rest
+v,住,zhù,lto ive
+v,做,zuò,"to do, to make"
+v,再见,zàijiàn,Goodbye
+v,写,xiě,to write
+v,出,chū,out
+v,出去,chūqù,to go out
+v,出来,chūlái,to come out
+v,到,dào,To arrive
+v,动,dòng,to move
+v,包,bāo,to pack
+v,去,qù,go with
+v,叫,jiào,to call
+v,吃,chī,to eat
+v,吃饭,chīfàn,to have a meal
+n,同学,tóngxué,Classmate
+v,听,tīng,to listen
+v,听到,tīngdào,to hear
+v,听见,tīngjiàn,to hear
+v,告诉,gàosu,to tell
+v,唱,chàng,to sing
+v,唱歌,chànggē,To sing a song
+v,喜欢,xǐhuan,to like
+v,喝,hē,to drink
+v,回,huí,Back to
+v,回到,huídào,Back to
+v,回去,huíqu,go back
+v,回家,huíjiā,go home
+v,回来,huílai,to come back
+v,在,zài,in/on/at
+v,在家,zài jiā,stay at home
+v,坐,zuò,to sit
+v,坐下,zuòxia,to it down
+v,学,xué,"to learn, to study"
+v,学习,xuéxí,"to learn, to study"
+v,差,chà,missing
+v,帮,bāng,to help
+v,帮忙,bāngmáng,to help
+v,开,kāi,to open
+v,开会,kāihuì,Have a meeting
+v,开车,kāichē,to drive
+v,想,xiǎng,"to miss, to think"
+v,打,dǎ,to hit
+v,打开,dǎkāi,turn on
+v,打球,dǎqiú,to play ball
+v,打电话,dǎdiànhuà,Make a call
+v,打车,dǎchē,Take a taxi
+v,教,jiāo,to teach
+v,明白,míngbai,to understand
+v,是,shì,Yes
+v,有,yǒu,"Have, has"
+v,来,lái,to come 
+v,来到,láidào,came
+v,洗,xǐ,to wash
+v,爱,ài,to love
+v,玩儿,wánr,to play
+v,生气,shēngqì,to get angry
+v,用,yòng,to use
+v,看,kàn,"to look, to see"
+v,看到,kàn dào,saw
+v,看病,kànbìng,to see a doctor
+v,看见,kànjiàn,saw
+v,睡,shuì,to sleep
+v,睡觉,shuìjiào,to go to bed
+v,穿,chuān,to wear
+v,笑,xiào,to laugh
+v,等,děng,to wait
+v,给,gěi,to give
+v,行,xíng,to walk
+v,要,yào,to want
+v,见,jiàn,to see
+v,见面,jiànmiàn,to meet
+v,觉得,juéde,to feel
+v,认识,rènshi,"to meet, to know"
+v,说,shuō,to say
+v,请坐,qǐng zuò,Please sit down
+v,请进,qǐngjìn,Please come in
+v,请问,qǐngwèn,Excuse me
+v,谢谢,xièxie,Thank you
+v,走,zǒu,to go
+v,走路,zǒulù,to walk
+v,起,qǐ,to rise
+v,起床,qǐchuáng,to get up
+v,起来,qilai,to stand up
+v,跑,pǎo,to run
+v,送,sòng,"to give away, to send"
+v,问,wèn,to ask
+v,飞,fēi,to fly
+adj,饱,bǎo,full
+adj,一点点,yīdiǎndiǎn,a little bit
+adj,不错,bùcuò,Not bad
+adj,长,cháng,long
+adj,短,duǎn,short
+adj,好多,hǎoduō,many
+adj,黑,hēi,black
+adj,红,hóng,red
+adj,黄,huáng,yellow
+adj,开心,kāixīn,Happy
+adj,可爱,kě'ài,lovely
+adj,快乐,kuàilè,happy
+adj,蓝,lán,blue
+adj,绿,lǜ,green
+adj,年轻,niánqīng,young
+adj,便宜,piányi,Cheap
+adj,漂亮,piàoliang,Pretty
+adj,晴,qíng,clear
+adj,热情,rèqíng,enthusiasm
+adj,舒服,shūfu,Comfortable
+adj,相同,xiāngtóng,the same
+adj,阴,yīn,overcast
+adj,有空儿,yǒukòng r,available
+adj,有意思,yǒuyìsi,interesting
+adj,这么,zhème,so
+adj,这样,zhèyàng,such
+adj,不少,bùshǎo,A lot
+adj,安静,ānjìng,be quiet
+adj,安全,ānquán,Safety
+adj,不够,bùgòu,not enough
+adj,不久,bùjiǔ,soon
+adj,不满,bùmǎn,dissatisfied
+adj,不同,bùtóng,different
+adj,常见,chángjiàn,common
+adj,常用,chángyòng,Commonly used
+adj,大部分,dàbùfen,most
+adj,大多数,dàduōshù,the mojority
+adj,大量,dàliàng,A lot
+adj,大声,dàshēng,Loudly
+adj,低,dī,low
+adj,多么,duōme,how
+adj,多数,duōshù,most
+adj,高级,gāojí,advanced
+adj,公平,gōngpíng,fair
+adj,国际,guójì,International
+adj,好像,hǎoxiàng,like
+adj,合适,héshì,Suitable
+adj,急,jí,anxious
+adj,假,jiǎ,fake
+adj,健康,jiànkāng,health
+adj,近,jìn,near
+adj,可怕,kěpà,terrible
+adj,老（老王）,lǎo（ lǎo wáng）,"old, senior"
+adj,例如,lìrú,For example
+adj,凉,liáng,cool
+adj,凉快,liángkuai,Cool off
+adj,亮,liàng,bright
+adj,流行,liúxíng,popular
+adj,难过,nánguò,Sad
+adj,难看,nánkàn,Ugly
+adj,难受,nánshòu,Uncomfortable
+adj,难听,nántīng,unpleasant to hear
+adj,努力,nǔlì,Work hard
+adj,平,píng,flat
+adj,平安,píng'ān,Safe
+adj,平常,píngcháng,usually
+adj,平等,píngděng,equality
+adj,普通,pǔtōng,ordinary
+adj,轻,qīng,light
+adj,清楚,qīngchu,clear
+adj,全,quán,all
+adj,全国,quánguó,Nationwide
+adj,全体,quántǐ,All
+adj,少数,shǎoshù,few
+adj,实在,shízài,really
+adj,熟,shú,Cooked
+adj,疼,téng,hurt
+adj,通,tōng,through
+adj,许多,xǔduō,a lot of
+adj,一部分,yībùfèn,Part of
+adj,一般,yībān,general
+adj,脏,zāng,dirty
+adj,真正,zhēnzhèng,real
+adj,正确,zhèngquè,correct
+adj ,友好,yǒuhǎo,friendly
+adj ,正常,zhèngcháng,normal
+adj.,主要,zhǔyào,main
+adj./adv.,直接,zhíjiē,direct
+adj./adv.,准确,zhǔnquè,accurate
+adj/adv,全部,quánbù,All
+adv,不要,bùyào,Don't
+adv,差不多,chàbuduō,almost
+adv,多,duō,many
+adv,刚,gāng,just
+adv,更,gèng,more
+adv,好,hǎo,good
+adv,经常,jīngcháng,often
+adv,就要,jiùyào,be going to
+adv,已经,yǐjīng,already
+adv,一直,yīzhí,Always
+adv,有（一）点儿,yǒu（ yī） diǎnr,a little bit
+adv,又,yòu,again
+adv,只,zhǐ,only
+adv,比如,bǐrú,such as
+adv,比如说,bǐrú shuō,For example
+adv,不太,bù tài,Not quite
+adv,才,cái,only
+adv,重新,chóngxīn,again
+adv,从小,cóngxiǎo,Since childhood
+adv,大大,dàdà,Greatly
+adv,刚刚,gānggang,just
+adv,故意,gùyì,deliberately
+adv,忽然,hūrán,suddenly
+adv,快点儿,kuàidiǎnr,Hurry up
+adv,快要,kuàiyào,About to
+adv,老是,lǎoshi,always
+adv,流利,liúlì,fluent
+adv,随便,suíbiàn,casual
+adv,挺好,tǐnghǎo,very good
+adv,同时,tóngshí,meanwhile
+adv,同样,tóngyàng,same
+adv,完,wán,Finish
+adv,完全,wánquán,completely
+adv,也许,yěxǔ,Maybe
+adv,一定,yīdìng,for sure
+adv,一共,yīgòng,in total
+adv,一会儿,yīhuìr,A while
+adv,永远,yǒngyuǎn,forever and always
+adv,原来,yuánlái,original
+adv,越来越,yuèláiyuè,More and more
+adv,早就,zǎojiù,Long time ago
+adv,正好,zhènghǎo,Just right
+adv,正是,zhèngshì,Exactly
+adv,只能,zhǐnéng,Can only
+adv ,老,lǎo,old
+adv ,十分,shífēn,very
+adv ,实在,shízài,really
+adv ,顺利,shùnlì,smoothly
+adv ,挺,tǐng,very
+adv/adj,够,gòu,enough
+adv/adj,特别,tèbié,especially
+conj,不过,bùguò,"but, however"
+conj,但,dàn,but
+conj,但是,dànshì,"but, however"
+conj,而且,érqiě,"moreover, but also"
+conj,或者,huòzhě,or
+conj,可是,kěshì,but
+conj,那,nà,that
+conj,那么,nàme,Then
+conj,然后,ránhòu,then
+conj,如果,rúguǒ,in case
+conj,虽然,suīrán,although
+conj,所以,suǒyǐ,and so
+conj,因为,yīnwèi,because
+conj,不但,bùdàn,Not only
+conj,当,dāng,when
+conj,的话,dehuà,if
+conj,或,huò,or (in statement)
+conj,越,yuè,More
+conj,只要,zhǐyào,as long as
+int.,啊,ā,huh
+int.,喂,wèi,hello（on phone call）
+m,公斤,gōngjīn,kilogram
+M,黄色,huángsè,yellow
+m,回,huí,Back to
+m,件,jiàn,Pieces
+m,斤,jīn,jin
+m,两,liǎng,Two
+m,米,mǐ,Meter
+m,瓶,píng,bottle
+m,位,wèi,Bit
+m,下,xià,under
+m,遍,biàn,all over
+m,层,céng,Floor
+m,段,duàn,segment
+m,份,fèn,a portion of
+m,封,fēng,seal
+m,公里,gōnglǐ,Kilometer
+m,级,jí,level
+m,角,jiǎo,angle
+m,科,kē,measure word
+m,克,kè,Gram
+m,刻,kè,engraved
+m,辆,liàng,measure word
+m,名,míng,measure word
+m,篇,piān,measure word for articles
+m,片,piàn,measure word for sheet
+m,千克,qiānkè,kilogram
+m,套,tào,measure word for set
+m,条,tiáo,measure word
+m,碗,wǎn,bowl
+m,万,wàn,Ten thousand
+m,组,zǔ,measure word for group
+m,座,zuò,measure word
+modal,可能,kěnéng,may
+modal,可以,kěyǐ,can
+modal,应该,yīnggāi,should
+modal,必须,bìxū,have to
+modal,能够,nénggòu,able to
+n,白色,báisè,white
+n,办公室,bàngōngshì,office
+n,报纸,bàozhǐ,newspaper
+n,北方,běifāng,northern
+n,笔,bǐ,pen
+n,笔记本,bǐjìběn,notebook
+n,菜单,càidān,menu
+n,超市,chāoshì,Supermarket
+n,出租车,chūzūchē,taxi
+n,船,chuán,ferry
+n,春节,Chūnjié,Spring Festival
+n,春天,chūntiān,spring
+n,大海,dàhǎi,The sea
+n,大家,dàjiā,everyone
+n,大衣,dàyī,Overcoat
+n,蛋,dàn,egg
+n,地铁,dìtiě,subway
+n,地铁站,dìtiězhàn,subway station
+n,店,diàn,shop
+n,东北,dōngběi,northeast
+n,东方,dōngfāng,Eastern
+n,东南,dōngnán,southeast
+n,冬天,dōngtiān,winter
+n,度,dù,degree
+n,短信,duǎnxìn,text message
+n,对面,duìmiàn,opposite
+n,多云,duōyún,partly cloudy
+n,饭馆,fànguǎn,restaurant
+n,方便,fāngbiàn,Convenience
+n,分钟,fēnzhōng,minute
+n,服务,fúwù,service
+n,公共汽车,gōnggòngqìchē,bus
+n,公交车,gōngjiāochē,bus
+n,公司,gōngsī,company
+n,公园,gōngyuán,park
+n,狗,gǒu,dog
+n,海,hǎi,sea
+n,好久,hǎojiǔ,Long time
+n,黑色,hēisè,black
+n,红色,hóngsè,red
+n,护照,hùzhào,passport
+n,花园,huāyuán,garden
+n,会,huì,meeting
+n,鸡,jī,Chickens
+n,交通,jiāotōng,transportation
+n,饺子,jiǎozi,Dumplings
+n,脚,jiǎo,foot
+n,节日,jiérì,festival
+n,酒,jiǔ,"wine, liquor"
+n,酒店,jiǔdiàn,Hotel
+n,客人,kèrén,guests
+n,筷子,kuàizi,chopsticks
+n,蓝色,lánsè,blue
+n,篮球,lánqiú,basketball
+n,脸,liǎn,face
+n,零下,língxià,below zero
+n,绿色,lǜsè,green
+n,猫,māo,Cat
+n,面2,miàn2,Face 
+n,明星,míngxīng,Celebrity
+n,南方,nánfāng,southern
+n,鸟,niǎo,bird
+n,平时,píngshí,usually
+n,晴天,qíngtiān,sunny day
+n,秋天,qiūtiān,fall
+n,人口,rénkǒu,population
+n,上周,shàngzhōu,Last week
+n,生活,shēnghuó,life
+n,市,shì,city
+n,司机,sījī,driver
+n,太太,tàitai,Mrs
+n,同事,tóngshì,colleague
+n,头发,tóufa,hair
+n,外卖,wàimài,Takeaway
+n,晚餐,wǎncān,dinner
+n,网,wǎng,network
+n,网球,wǎngqiú,tennis
+n,问题,wèntí,problem
+n,午餐,wǔcān,lunch
+n,西北,xīběi,northwest
+n,西餐,xīcān,Western food
+n,西方,Xīfāng,West
+n,西南,xīnán,southwest
+n,习惯,xíguàn,habit
+n,洗衣机,xǐyījī,washing machine
+n,下周,xiàzhōu,next week
+n,夏天,xiàtiān,summer
+n,鞋,xié,shoe
+n,新闻,xīnwén,news
+n,信用卡,xìnyòngkǎ,credit card
+n,星星,xīngxing,star
+n,姓名,xìngmíng,Name
+n,雪,xuě,snow
+n,颜色,yánsè,colour
+n,眼,yǎn,eye
+n,眼睛,yǎnjing,eye
+n,样子,yàngzi,appearance
+n,药,yào,medicine
+n,以后,yǐhòu,"after,later"
+n,以前,yǐqián,"before, ago"
+n,椅子,yǐzi,chair
+n,意思,yìsi,meaning
+n,阴天,yīntiān,cloudy day
+n,音乐,yīnyuè,music
+n,音乐会,yīnyuèhuì,concert
+n,银行,yínháng,bank
+n,银行卡,yínhángkǎ,Bank card
+n,英文,Yīngwén,English
+n,英语,Yīngyǔ,English language
+n,鱼,yú,fish
+n,语言,yǔyán,Language
+n,月亮,yuèliang,moon
+n,早餐,zǎocān,breakfast
+n,照片,zhàopiàn,photo
+n,纸,zhǐ,paper
+n,中餐,Zhōngcān,Chinese food
+n,中心,zhōngxīn,center
+n,周,zhōu,week
+n,周末,zhōumò,weekend
+n,自行车,zìxíngchē,bicycle
+n,最近,zuìjìn,recently
+n,作业,zuòyè,homework
+n,边,biān,side
+N,出口,chūkǒu,Exit
+n,大门,dàmén,door
+n,大人,dàren,adult
+n,手表,shǒubiǎo,Watch
+n,太阳,tàiyang,sun
+n,个子,gèzi,height
+n,爱情,àiqíng,love
+n,爱人,àiren,Lover
+n,班长,bānzhǎng,Monitor
+n,办法,bànfǎ,Method
+n,半夜,bànyè,midnight
+n,笔记,bǐjì,notes
+n,表,biǎo,table
+n,部分,bùfen,section
+n,草,cǎo,grass
+n,草地,cǎodì,Grassland
+n,场,chǎng,field
+n,车辆,chēliàng,vehicle
+n,成绩,chéngjì,Grades
+n,词,cí,word
+n,词典,cídiǎn,dictionary
+n,词语,cíyǔ,Words
+n,大小,dàxiǎo,size
+n,大自然,dàzìrán,nature
+n,单位,dānwèi,unit
+n,当时,dāngshí,at that moment
+n,道,dào,Tao
+n,道理,dàoli,reason
+n,道路,dàolù,road
+n,灯,dēng,light
+n,地球,dìqiú,Earth
+n,动物,dòngwù,animal
+n,动物园,dòngwùyuán,zoo
+n,读音,dúyīn,pronunciation
+n,队,duì,team
+n,队长,duìzhǎng,team leader
+n,对话,duìhuà,dialogue
+n,方便面,fāngbiànmiàn,Instant noodles
+n,方法,fāngfǎ,method
+n,方面,fāngmiàn,aspect
+n,方向,fāngxiàng,direction
+n,分数,fēnshù,score
+n,刚才,gāngcái,Just now
+n,高中,gāozhōng,High school
+n,公路,gōnglù,highway
+n,故事,gùshi,story
+n,顾客,gùkè,customer
+n,观点,guāndiǎn,View
+n,广场,guǎngchǎng,square
+n,广告,guǎnggào,advertising
+n,海边,hǎibiān,seaside
+n,好处,hǎochu,benefit
+n,好人,hǎo rén,Nice guy
+n,好事,hǎoshì,Good thing
+n,河,hé,River
+n,黑板,hēibǎn,blackboard
+n,后来,hòulái,later
+n,湖,hú,lake
+n,画,huà,painting
+n,画家,huàjiā,painter
+n,画儿,huàr,Painting
+n,坏处,huàichu,harm
+n,坏人,huàirén,Bad guy
+n,活动,huódòng,activity
+n,机会,jīhuì,opportunity
+n,计算机,jìsuànjī,computer
+n,家（科学家）,jiā（ kēxuéjiā）,"house, home"
+n,家庭,jiātíng,family
+n,家长,jiāzhǎng,Parent
+n,假期,jiàqī,Holiday
+n,角度,jiǎodù,angle
+n,教师,jiàoshī,teacher
+n,教室,jiàoshì,classroom
+n,教学,jiàoxué,teaching
+n,教育,jiàoyù,education
+n,接下来,jiēxiàlái,Next
+n,街,jiē,street
+n,节目,jiémù,program
+n,结果,jiéguǒ,result
+n,今后,jīnhòu,from now on
+n,经理,jīnglǐ,manager
+n,句,jù,sentence
+n,句子,jùzi,sentence
+n,卡,kǎ,card
+n,看法,kànfǎ,view
+n,考生,kǎoshēng,Candidate
+n,科学,kēxué,science
+n,课堂,kètáng,classroom
+n,空气,kōngqì,air
+n,快餐,kuàicān,fast food
+n,老年,lǎonián,elderly
+n,老朋友,lǎopéngyou,Old friend
+n,礼物,lǐwù,gift
+n,里头,lǐtou,Inside
+n,理想,lǐxiǎng,ideal
+n,例子,lìzi,example
+n,留学生,liúxuéshēng,International students
+n,路边,lùbiān,roadside
+n,旅客,lǚkè,Traveler
+n,面前,miànqián,before
+n,名称,míngchēng,name
+n,名单,míngdān,List
+n,目的,mùdì,purpose
+n,那会儿,nà huì r,At that moment
+n,那时候/那时,nàshíhou/ nàshí,Then/at that time
+n,难题,nántí,problem
+n,年级,niánjí,grade
+n,排球,páiqiú,volleyball
+n,瓶子,píngzi,bottle
+n,普通话,pǔtōnghuà,Mandarin
+n,气,qì,gas
+n,气温,qìwēn,Temperature
+n,前年,qiánnián,The year before last
+n,墙,qiáng,wall
+n,青年,qīngnián,youth
+n,青少年,qīngshàonián,teens
+n,球场,qiúchǎng,court
+n,球队,qiúduì,team
+n,球鞋,qiúxié,sneakers
+n,全家,quánjiā,Whole family
+n,全年,quánnián,annual
+n,全身,quánshēn,whole body
+n,人们,rénmen,people
+n,人数,rénshù,Number of people
+n,日报,rìbào,daily
+n,日子,rìzi,day
+n,入口,rùkǒu,Entrance
+n,商人,shāngrén,businessman
+n,少年,shàonián,juvenile
+n,身边,shēnbiān,By your side
+n,生词,shēngcí,New words
+n,声音,shēngyīn,sound
+n,省,shěng,province
+n,实际,shíjì,actual
+n,食物,shíwù,food
+n,市长,shìzhǎng,mayor
+n,事情,shìqing,thing
+n,收入,shōurù,income
+n,数,shǔ,number
+n,数字,shùzì,digital
+n,水平,shuǐpíng,Level
+n,态度,tàidu,attitude
+n,特点,tèdiǎn,Features
+n,题,tí,question
+n,体育,tǐyù,physical education
+n,体育场,tǐyùchǎng,stadium
+n,体育馆,tǐyùguǎn,stadium
+n,天上,tiānshàng,Heaven
+n,条件,tiáojiàn,condition
+n,停车场,tíngchēchǎng,parking lot
+n,通知,tōngzhī,Notice
+n,头（里头）,tóu（ lǐtou）,Head (inside)
+n,图片,túpiàn,image
+n,腿,tuǐ,leg
+n,外地,wàidì,Out of town
+n,晚安,wǎn'ān,good night
+n,晚报,wǎnbào,Evening News
+n,晚会,wǎnhuì,Party
+n,网站,wǎngzhàn,website
+n,味道,wèidao,taste
+n,温度,wēndù,temperature
+n,午睡,wǔshuì,Nap
+n,西医,xīyī,Western medicine
+n,想法,xiǎngfǎ,idea
+n,相机,xiàngjī,camera
+n,小（小王）,xiǎo（ xiǎo wáng）,Little (Xiao Wang)
+n,小声,xiǎoshēng,Whisper
+n,小时候,xiǎoshíhou,When I was young
+n,小说,xiǎoshuō,Fiction
+n,小组,xiǎozǔ,group
+n,校园,xiàoyuán,campus
+n,校长,xiàozhǎng,principal
+n,笑话,xiàohuà,joke
+n,笑话儿,xiàohuà r,Joke
+n,心里,xīnli,In the heart
+n,心情,xīnqíng,mood
+n,心中,xīnzhōng,In mind
+n,信,xìn,letter
+n,信号,xìnhào,signal
+n,信息,xìnxī,information
+n,信心,xìnxīn,confidence
+n,行动,xíngdòng,action
+n,行人,xíngrén,pedestrian
+n,行为,xíngwéi,behavior
+n,学期,xuéqī,semester
+n,药店,yàodiàn,pharmacy
+n,药片,yàopiàn,pill
+n,药水,yàoshuǐ,Potion
+n,夜,yè,night
+n,夜里,yèli,at night
+n,一生,yīshēng,lifetime
+n,意见,yìjiàn,opinion
+n,音节,yīnjié,syllable
+n,影片,yǐngpiàn,film
+n,油,yóu,oil
+n,游客,yóukè,Tourist
+n,原因,yuányīn,the reason
+n,院,yuàn,hospital
+n,院长,yuànzhǎng,Dean
+n,院子,yuànzi,courtyard
+n,月份,yuèfèn,month
+n,云,yún,cloud
+n,早晨,zǎochén,in the morning
+n,中级,zhōngjí,intermediate
+n,中年,zhōngnián,middle aged
+n,中小学,zhōng xiǎoxué,Elementary and middle school
+n,中医,Zhōngyī,Chinese Medicine
+n,重点,zhòngdiǎn,Focus
+n,周年,zhōunián,anniversary
+n,主人,zhǔrén,the host
+n,住房,zhùfáng,housing
+n,自由,zìyóu,free
+n,字典,zìdiǎn,dictionary
+n,组长,zǔzhǎng,Group leader
+n,嘴,zuǐ,mouth
+n,作家,zuòjiā,writer
+n,作文,zuòwén,composition
+n,作用,zuòyòng,effect
+n,座位,zuòwèi,seat
+n,做法,zuòfǎ,practice
+n，m,节,jié,Section
+"n,m",面1,miàn1,Face 1
+"n,m",排,pái,row
+"n,m",头,tóu,head
+n/v,计划,jìhuà,plan
+n/v,影响,yǐngxiǎng,influences
+number,亿,yì,Billion
+number ,千,qiān,thousand
+part ,得,de,Get
+"part, n",等,děng,Wait
+phrase,不好意思,bùhǎoyìsi,Sorry
+phrase,不一定,bùyīdìng,Not necessarily
+phrase,不一会儿,bù yīhuìr,Soon
+"Prep,v",对,duì,Correct
+pron,它,tā,it
+pron,它们,tāmen,they
+pron,有人,yǒurén,Someone
+pron,自己,zìjǐ,Oneself
+pron,到处,dàochù,everywhere
+pron,那样,nàyàng,That way
+pron,其他,qítā,other
+pron,随时,suíshí,at any time
+pron,所有,suǒyǒu,all
+pron,咱,zán,we
+pron,咱们,zánmen,we
+pron,这时候/这时,zhè shíhou/ zhèshí,This time/this time
+prop,离,lí,away from
+prop,往,wǎng,to
+prop,为,wéi,for
+prop,其中,qízhōng,among them
+prop,向,xiàng,to
+prop,以上,yǐshàng,the above
+prop,以外,yǐwài,outside
+prop,以下,yǐxià,the following
+ques,怎么办,zěnmebàn,How to do
+ques,怎么样,zěnmeyàng,How
+ques,怎样,zěnyàng,how
+question ,多久,duōjiǔ,how long
+question ,为什么,wèishénme,why
+question ,什么样,shénmeyàng,What kind
+v,办,bàn,"to do, to handle"
+V,背,bèi,to recite
+v,不行,bùxíng,No way
+v,参观,cānguān,to visit
+v,出生,chūshēng,to be born
+v,出租,chūzū,to rent out
+v,打算,dǎsuàn,to plan
+v,带,dài,to bring
+v,带来,dàilái,bring over
+v,懂,dǒng,to understand
+v,发,fā,to send out
+v,复习,fùxí,to review
+v,过来,guòlái,to come
+v,过年,guònián,celebrate New Year
+V,花,huā,to spend
+v,欢迎,huānyíng,welcome
+v,换,huàn,to change
+v,回国,huíguó,to return home
+v,见到,jiàndào,saw
+v,见过,jiàn guò,Have seen
+v,借,jiè,to borrow
+v,离开,líkāi,go away
+v,练,liàn,to practice
+v,练习,liànxí,to exercise
+v,旅行,lǚxíng,to travel
+v,旅游,lǚyóu,to travel
+v,卖,mài,to sell
+v,爬,pá,to climb
+v,爬山,páshān,climbing Mountain 
+v,骑,qí,to ride
+v,骑车,qíchē,ride a bike
+v,让,ràng,to let
+v,听说,tīngshuō,It is said that
+v,洗澡,xǐzǎo,Take a bath
+v,下雪,xiàxuě,Snowing
+v,姓,xìng,name
+v,一路平安,yīlùpíng'ān,Safe journey
+v,运动,yùndòng,to do sports
+v,长,zhǎng,to grow
+v,长大,zhǎngdà,grow up
+v,找出,zhǎochū,to find out
+v,租,zū,to rent
+v,做到,zuòdào,to make it
+v,做饭,zuòfàn,to cook
+v,出门,chūmén,Go out
+v,报名,bàomíng,to sign up
+v,变,biàn,to change
+v,变成,biànchéng,become
+v,表示,biǎoshì,Means
+v,不如,bùrú,Not as good as
+v,参加,cānjiā,to participate
+v,查,chá,to check
+v,超过,chāoguò,to exceed
+V,称,chēng,"to weigh, to be call"
+V,成,chéng,to make
+v,成为,chéngwéi,become
+v,重复,chóngfù,to repeat
+v,出发,chūfā,to depart
+v,出国,chūguó,Go abroad
+v,出现,chūxiàn,to appear
+v,出院,chūyuàn,Discharged
+v,吹,chuī,to blow
+v,答应,dāying,to promise
+v,打工,dǎgōng,Part-time job
+v,打印,dǎyìn,to print
+v,倒,dǎo,to fall down
+v,倒,dào,to pour
+v,得,dé,to get
+v,得出,déchū,inferred
+v,等到,děngdào,wait until
+v,等于,děngyú,equal
+v,点头,diǎntóu,nod
+v,掉,diào,to drop
+v,懂得,dǒngde,to understand
+v,发现,fāxiàn,to find
+v,放下,fàngxià,to lay down
+v,放心,fàngxīn,do not worry
+v,分,fēn,to divide
+v,分开,fēnkāi,to separate
+V,该,gāi,The
+v,改,gǎi,to change
+v,改变,gǎibiàn,to change
+v,干杯,gānbēi,Cheers
+v,感到,gǎndào,felt
+v,感觉,gǎnjué,to feel
+v,感谢,gǎnxiè,to thank
+v,干活儿,gànhuór,to work
+v,关机,guānjī,Shut down
+v,关心,guānxīn,"to concern, to care"
+V,过去,guòqu,past
+v,过,guò,Pass
+v,喊,hǎn,to call
+v,加,jiā,plus
+v,加油,jiāyóu,Come on
+v,检查,jiǎnchá,an examination
+v,讲,jiǎng,to speak
+v,讲话,jiǎnghuà,to Speak
+v,交,jiāo,"to cross, to submit"
+v,交给,jiāogěi,to hand over
+v,交朋友,jiāopéngyou,to make friends
+v,叫作,jiàozuò,Called
+v,接,jiē,to pick up
+v,接到,jiēdào,Received
+v,接受,jiēshòu,to accept
+v,接着,jiēzhe,then
+v,进入,jìnrù,to enter
+v,进行,jìnxíng,get on
+v,经过,jīngguò,after
+v,举,jǔ,to lift
+v,举手,jǔshǒu,to raise hand
+v,举行,jǔxíng,to hold
+v,开机,kāijī,Boot up
+v,开学,kāixué,Start of school
+v,靠,kào,by
+v,哭,kū,to cry
+v,拉,lā,to pull
+v,来自,láizì,From
+v,留,liú,to stay
+v,留下,liúxià,to stay
+v,流,liú,to flow
+v,满,mǎn,full
+v,满意,mǎnyì,satisfaction
+v,拿出,náchū,to take out
+v,拿到,ná dào,to get
+v,弄,nòng,"to do, to make"
+v,怕,pà,afraid
+v,排队,páiduì,to queue up
+v,碰,pèng,bump
+v,碰到,pèngdào,bump into
+v,碰见,pèngjiàn,meet
+v,起飞,qǐfēi,take off
+v,请客,qǐngkè,to invite guest
+v,请求,qǐngqiú,to request
+v,求,qiú,begging
+v,取,qǔ,to take
+v,取得,qǔdé,to get
+v,认为,rènwéi,thought
+v,商量,shāngliang,to discuss
+v,生,shēng,to give birth
+v,省,shěng,to save
+v,实习,shíxí,to practice
+v,实现,shíxiàn,to achieve
+v,使用,shǐyòng,to use
+v,收,shōu,to receive
+v,收到,shōudào,Roger that
+v,受到,shòudào,to suffer
+v,说明,shuōmíng,to describe
+v,送到,sòng dào,sent to
+v,送给,sònggěi,give to
+v,算,suàn,to calculate
+v,讨论,tǎolùn,to discuss
+v,提,tí,to mention
+v,提出,tíchū,to put forward
+v,提到,tídào,to mention
+v,提高,tígāo,to improve
+v,听讲,tīngjiǎng,to listen
+v,停,tíng,to stop
+v,停车,tíngchē,parking
+v,通过,tōngguò,by
+v,推,tuī,to push
+v,完成,wánchéng,to carry out
+v,闻,wén,to smell
+v,问路,wènlù,Ask for directions
+v,相信,xiāngxìn,to believe
+v,响,xiǎng,to ring
+v,想到,xiǎngdào,to think
+v,想起,xiǎngqǐ,to remember
+v,像,xiàng,Look like
+v,小心,xiǎoxīn,Be careful
+v,休假,xiūjià,Vacation
+v,选,xuǎn,to choose
+v,养,yǎng,to cultivate
+v,一路顺风,yīlùshùnfēng,Bon Voyage
+v,以为,yǐwéi,thought
+v,愿意,yuànyì,willing
+v,占,zhàn,to accupy
+v,站,zhàn,to stand
+v,站住,zhànzhù,to stop
+v,照顾,zhàogu,Take care of
+v,照相,zhàoxiàng,to take a photo
+v,重视,zhòngshì,Pay attention to
+v,住院,zhùyuàn,Be hospitalized
+v,装,zhuāng,to install
+v,走过,zǒuguò,Walk through
+v,走进,zǒujìn,Walk in
+v,走开,zǒukāi,Go away
+v,组成,zǔchéng,composition
+v/adj,感动,gǎndòng,touching 
+v/n,帮助,bāngzhù,to help
+v/n,要求,yāoqiú,to request
+n,变化,biànhuà,variation
+n,表演,biǎoyǎn,Performance
+n,成功,chénggōng,success
+v,代表,dàibiǎo,to represent
+v,调查,diàochá,to survey
+v,记录 ,jìlù,to record
+v,纪念,jìniàn,to commemorate
+v,建议,jiànyì,to suggest
+v,节约,jiéyuē,to economize
+v,考验,kǎoyàn,to test
+v,留学,liúxué,to study abroad
+v,体验 ,tǐyàn,to experience
+v,显示,xiǎnshì,to display
+v,写作,xiězuò,to write
+v,信任,xìnrèn,to trust
+v,修改 ,xiūgǎi,to modify
+v,需求 ,xūqiú,Demand
+v,运输,yùnshū,to transport
+v,证明,zhèngmíng,to prove
+v,安排,ānpái,to arrange
+v,安装,ānzhuāng,to install
+v,搬,bān,to move
+v,搬家,bānjiā,to move house
+v,办理,bànlǐ,to handle
+v,保,bǎo,to protect
+v,保持,bǎochí,to maintain
+v,保存,bǎocún,to save
+v,保护,bǎohù,to protect
+v,保留,bǎoliú,to keep
+v,保证,bǎozhèng,to guarantee
+v,报到,bàodào,to check in
+v,报道,bàodào,to report
+v,报告,bàogào,to report
+v,背,bèi,to recite
+v,变为,biànwéi,to become
+v,表达,biǎodá,to express
+v,表明,biǎomíng,to show
+v,表现,biǎoxiàn,to performe
+v,播出,bōchū,to broadcast
+v,播放,bōfàng,to play
+v,补,bǔ,to make up
+v,补充,bǔchōng,to supplement
+v,采取,cǎiqǔ,to adopt
+v,采用,cǎiyòng,to use
+v,产生,chǎnshēng,to produce
+v,吵架,chǎojià,to quarrel
+v,成立,chénglì,to establish
+v,成长,chéngzhǎng,to grow up
+v,处理,chǔlǐ,to deal with
+v,传,chuán,to pass
+v,传播,chuánbō,to spread
+v,传来,chuánlái,to come
+v,创业,chuàngyè,to start a business
+v,创造,chuàngzào,to create
+v,创作,chuàngzuò,to create
+v,达到,dádào,to achieve
+v,打破,dǎpò,to break 
+v,打听,dǎting,to inquire about
+v,代,dài,to replace
+v,带动,dàidòng,to drive
+v,带领,dàilǐng,to lead
+v,到达,dàodá,to arrive
+v,等待,děngdài,to wait
+v,调,diào,to tune
+v,订,dìng,to order
+v,对待,duìdài,to treat
+v,发出,fāchū,to issue
+v,发达,fādá,to develope
+v,发动,fādòng,to launch
+v,发明,fāmíng,to invent
+v,发生,fāshēng,to occur
+v,发送,fāsòng,to send
+v,发言,fāyán,to speak
+v,发展,fāzhǎn,to develop
+v,反对,fǎnduì,to oppose
+v,防止 ,fángzhǐ,to prevent
+v,访问,fǎngwèn,to interview
+v,放到,fàng dào,to put on
+v,飞行,fēixíng,to flight
+v,分配,fēnpèi,to distribute
+v,分组,fēnzǔ,to divide into groups
+v,否定,fǒudìng,to negative
+v,否认,fǒurèn,to deny
+v,付,fù,to pay
+v,负责,fùzé,to responsible for
+v,复印,fùyìn,to copy
+v,观察,guānchá,to observe
+v,观看,guānkàn,to watch
+v,管,guǎn,to manage
+v,管理,guǎnlǐ,to manage
+v,划船,huáchuán,to go boating
+v,计算,jìsuàn,to calculate
+v,继续,jìxù,to carry on
+v,加工,jiāgōng,to process
+v,加快,jiākuài,to accelerate
+v,加强,jiāqiáng,to strengthen
+v,建,jiàn,to build
+v,建成,jiànchéng,to built
+v,建立,jiànlì,to set up
+v,建设,jiànshè,to constructe
+v,交流 ,jiāoliú,to communicate with 
+v,交往,jiāowǎng,to associate
+v,交易,jiāoyì,to transact
+v,接待,jiēdài,Reception
+v,接近,jiējìn,to close to
+v,结合,jiéhé,to combine
+v,结婚,jiéhūn,to marry
+v,结束,jiéshù,to end
+v,解决,jiějué,to solve
+v,解开,jiěkāi,to untie
+v,经营,jīngyíng,to operate
+v,救,jiù,to save
+v,举办,jǔbàn,to hold
+v,开发,kāifā,to develop
+v,开放,kāifàng,to open
+v,开始,kāishǐ,to begin
+v,开业,kāiyè,to open a business
+v,开展,kāizhǎn,to develop
+v,离婚,líhūn,to divorce
+v,理发,lǐfà,to do a haircut
+v,理解,lǐjiě,to understand 
+v,利用,lìyòng,to use
+v,联系,liánxì,to contact
+v,录,lù,to record
+v,录音,lùyīn,to record
+v,面对,miànduì,to face
+v,排 （动）,pái （ dòng）,to rank
+v,派,pài,to send
+v,判断,pànduàn,to judge
+v,跑步,pǎobù,to run
+v,配,pèi,to match
+v,配合,pèihé,to cooperate
+v,批评,pīpíng,to criticize
+v,批准,pīzhǔn,to approve
+v,评价,píngjià,to evaluate
+v,破坏,pòhuài,to damage
+v,强调,qiángdiào,to emphasize
+v,亲自,qīnzì,personally
+v,请教,qǐngjiào,to consult
+v,庆祝,qìngzhù,to celebrate
+v,区别,qūbié,to distinguish
+v,取消,qǔxiāo,to cancel
+v,去世,qùshì,to pass away
+v,缺,quē,to be short of 
+v,缺少,quēshǎo,to lack of
+v,确保,quèbǎo,to make sure
+v,确定,quèdìng,to determine
+v,确实,quèshí,indeed
+v,热爱,rè'ài,to love
+v,认出,rènchū,to recognize
+v,认得,rènde,to recognize
+v,认可,rènkě,to recognize
+v,任 （动）,rèn （ dòng）,to let
+v,伤,shāng,to hurt
+v,上来,shànglái,to come up
+v,上去,shàngqù,to go up
+v,上升,shàngshēng,torise
+v,设立,shèlì,to set up
+v,升,shēng,to rise
+v,生产,shēngchǎn,to produce
+v,生存,shēngcún,to survive
+v,胜,shèng,to win
+v,胜利,shènglì,victory
+v,失去,shīqù,to lose
+v,实行,shíxíng,to implement
+v,试验,shìyàn,to test
+v,适合,shìhé,to suit for
+v,适应,shìyìng,to adapt
+v,收费,shōufèi,to charge fee
+v,收看,shōukàn,to watch
+v,收听,shōutīng,to listen to
+v,受伤 ,shòushāng,to injure 
+v,输 ,shū,to lose
+v,输人 ,shū rén,to input
+v,死 ,sǐ,to die
+v,谈 ,tán,to talk about
+v,谈话 ,tánhuà,to talk
+v,谈判 ,tánpàn,to negotiate 
+v,提问 ,tíwèn,to ask question
+v,体会 ,tǐhuì,to experience
+v,调 ,diào,to tune
+v,调整 ,tiáozhěng,to adjust
+v,跳 ,tiào,to jump
+v,跳高 ,tiàogāo,high jump
+v,跳舞 ,tiàowǔ,to dance
+v,跳远 ,tiàoyuǎn,long jump
+v,停止,tíngzhǐ,to stop
+v,通信,tōngxìn,to communicate
+v,同意,tóngyì,to agree
+v,团结 ,tuánjié,unity
+v,推动 ,tuīdòng,to promote 
+v,推广 ,tuīguǎng,to promote
+v,推进,tuījìn,to advance
+v,推开 ,tuīkāi,to push away
+v,退 ,tuì,to retreat
+v,退出 ,tuìchū,to drop out 
+v,退休 ,tuìxiū,to retire
+v,完善 ,wánshàn,to consummate
+v,为（动） ,wéi（ dòng）,for
+v,握手 ,wòshǒu,to shake hands
+v,希望 ,xīwàng,to hope 
+v,下来 ,xiàlai,to come down
+v,下去 ,xiàqù,to go down
+v,显得 ,xiǎnde,to appear
+v,消费 ,xiāofèi,to expense
+v,消失 ,xiāoshī,to disappear
+v,信（动）,xìn（ dòng）,to believe 
+v,形成,xíngchéng,to form
+v,修 ,xiū,to repair
+v,需要 ,xūyào,need
+v,宣布 ,xuānbù,to announce
+v,宣传 ,xuānchuán,to promote 
+v,训练 ,xùnliàn,to train
+v,演,yǎn,toact
+v,演唱,yǎnchàng,to sing(in a performance)
+v,演出,yǎnchū,to perform
+v,迎接,yíngjiē,to meet
+v,赢,yíng,to win
+v,应用,yìngyòng,to apply
+v,游,yóu,to swim
+v,游泳,yóuyǒng,to swim
+v,预报,yùbào,to forecast
+v,预防,yùfáng,to prevent 
+v,预计,yùjì,to predict
+v,预习,yùxí,to preview
+v,造,zào,to make
+v,造成,zàochéng,to cause
+v,增加,zēngjiā,to increase
+v,增长,zēngzhǎng,to increase
+v,展开,zhǎnkāi,to unfold
+v,照,zhào,according to
+v,争取,zhēngqǔ,to strive for
+v,支持,zhīchí,to support
+v,支付,zhīfù,to pay
+v,指 ,zhǐ,"to point, to direct"
+v,指出 ,zhǐchū,to point out
+v,指导 ,zhǐdǎo,to guide
+v,制定 ,zhìdìng,to formulate
+v,制造 ,zhìzào,to manufacture
+v,制作 ,zhìzuò,to produce 
+v,种 ,zhǒng,to plant
+v,主持 ,zhǔchí,to host
+v,主动 ,zhǔdòng,be proactive 
+v,注意 ,zhùyì,to notice
+v,祝 ,zhù,to wish
+v,抓 ,zhuā,to catch
+v,抓住 ,zhuāzhù,to catch
+v,转 ,zhuàn,to turn
+v,追 ,zhuī,to chase
+v,自动,zìdòng,automatic
+v,做客,zuòkè,to visit 
+prep,叫 （介）,jiào （ jiè）,Called
+prep,为（介） ,wéi（ jiè）,for
+v,生长,shēngzhǎng,to grow
+n,声明,shēngmíng,statement
+mw,所（名、 量）,suǒ（ míng、 liáng）,measure word
+n,爱心,àixīn,Love
+n,白菜,báicài,Chinese cabbage
+n,班级,bānjí,class
+n,板,bǎn,board
+n,保安,bǎo'ān,Security guard
+n,保险,bǎoxiǎn,Insurance
+n,报 （名）,bào （ míng）,Report
+n,北部,běibù,North
+n,背 （名）,bèi （ míng）,Back
+n,背后,bèihòu,behind
+n,被子,bèizi,quilt
+n,本领,běnlǐng,ability
+n,本事,běnshì,ability
+n,比赛,bǐsài,game
+n,标题,biāotí,title
+n,标准,biāozhǔn,standard
+n,表格,biǎogé,form
+n,表面,biǎomiàn,surface
+n,布,bù,cloth
+n,步,bù,step
+n,部,bù,unit
+n,部门,bùmén,department
+n,部长,bùzhǎng,minister
+n,才能,cáinéng,Talent
+n,长城,Chángchéng,Great Wall
+n,长处,chángchù,Strengths
+n,厂,chǎng,plant
+n,场合,chǎnghé,occasion
+n,场所,chǎngsuǒ,place
+n,衬衫,chènshān,shirt
+n,衬衣,chènyī,shirt
+n,成果,chéngguǒ,Results
+n,成就,chéngjiù,achievement
+n,成员,chéngyuán,member
+n,城,chéng,city
+n,城市,chéngshì,city
+n,程度,chéngdù,degree
+n,初 （初一）,chū （ chūyī）,At the beginning
+n,初中,chūzhōng,junior high school
+n,村,cūn,village
+n,大使馆,dàshǐguǎn,embassy
+n,大夫,dàifu,doctor
+n,代表团,dàibiǎotuán,delegation
+n,单元,dānyuán,unit
+n,刀,dāo,Knife
+n,导演,dǎoyǎn,director
+n,底下,dǐxia,under
+n,地区,dìqū,area
+n,电视剧,diànshìjù,TV series
+n,电视台,diànshìtái,TV station
+n,电台,diàntái,Radio station
+n,电子邮件,diànzǐyóujiàn,e-mail
+n,东部,dōngbù,east
+n,动力,dònglì,power
+n,读者,dúzhě,reader
+n,短处,duǎnchù,Shortcomings
+n,短裤,duǎnkù,shorts
+n,队员,duìyuán,Players
+n,对方,duìfāng,other side
+n,对象,duìxiàng,Object
+n,范围,fànwéi,range
+n,方式,fāngshì,the way
+n,房东,fángdōng,landlord
+n,房屋,fángwū,houses
+n,房租,fángzū,rent
+n,费,fèi,fee
+n,费用,fèiyòng,cost
+n,风险,fēngxiǎn,risk
+n,服装,fúzhuāng,clothing
+n,福,fú,blessing
+n,父母,fùmǔ,parents
+n,父亲,fùqīn,father
+n,概念,gàiniàn,concept
+n,高速,gāosù,high speed
+n,高速公路,gāosùgōnglù,highway
+n,歌迷,gēmí,Fans
+n,歌声,gēshēng,singing
+n,歌手,gēshǒu,singer
+n,工厂,gōngchǎng,factory
+n,工程师,gōngchéngshī,engineer
+n,工夫,gōngfu,time
+n,工具,gōngjù,tool
+n,工业,gōngyè,industry
+n,工资,gōngzī,wage
+n,公务员 ,gōngwùyuán,Civil servant
+n,功夫 ,gōngfu,Kung fu
+n,功课 ,gōngkè,Homework
+n,功能 ,gōngnéng,Features 
+n,姑娘,gūniang,girl
+n,故乡,gùxiāng,home
+n,关系,guānxi,relationship
+n,观念,guānniàn,Idea
+n,观众,guānzhòng,Audience
+n,光,guāng,Light
+n,光明 ,guāngmíng,Bright
+n,广播 ,guǎngbō,Broadcast
+n,过去 （名）,guòqu （ míng）,Past
+n,海关,hǎiguān,customs
+n,红茶,hóngchá,black tea
+n,红酒,hóng jiǔ,Red wine
+n,互联网,Hùliánwǎng,the Internet
+n,华人,Huárén,Chinese
+n,话剧,huàjù,Drama
+n,话题,huàtí,topic
+n,环境 ,huánjìng,surroundings 
+n,会议,huìyì,meeting
+n,会员,huìyuán,member
+n,火 （名）,huǒ （ míng）,Fire
+n,机器,jīqì,machine
+n,记者,jìzhě,reporter
+n,家具,jiājù,Furniture
+n,家属 ,jiāshǔ,Family members
+n,家乡,jiāxiāng,hometown
+n,价格,jiàgé,price
+n,价钱,jiàqian,price
+n,价值,jiàzhí,value
+n,架,jià,frame
+n,交警,jiāojǐng,Traffic police
+n,教材,jiàocái,Textbook
+n,教练,jiàoliàn,coach
+n,金,jīn,gold
+n,金牌,jīnpái,gold medal
+n,京剧,Jīngjù,Peking Opera
+n,经济,jīngjì,economic
+n,经历,jīnglì,experience
+n,经验,jīngyàn,experience
+n,精神,jīngshén,spirit
+n,精神,jīngshén,spirit
+n,景色,jǐngsè,view
+n,警察,jǐngchá,Policemen
+n,咖啡,kāfēi,coffee
+n,科技,kējì,Technology
+n,可乐,kělè,Coke
+n,客服,kèfú,Customer service
+n,课程,kèchéng,course
+n,空调,kōngtiáo,air conditioning
+n,裤子,kùzi,pants
+n,老百姓,lǎobǎixìng,Common people
+n,老板,lǎobǎn,boss
+n,老太太,lǎotàitai,old lady
+n,老头儿,lǎotóur,Old man
+n,里面,lǐmiàn,inside
+n,理论,lǐlùn,theory
+n,理由,lǐyóu,reason
+n,力,lì,force
+n,力量,lìliang,power
+n,连续剧,liánxùjù,Series
+n,联合,liánhé,joint
+n,联合国,Liánhéguó,United Nations
+n,凉水,liángshuǐ,cold water
+n,领导,lǐngdǎo,leadership
+n,路线,lùxiàn,route
+n,旅馆,lǚguǎn,hostel
+n,旅行社,lǚxíngshè,Travel agency
+n,绿茶,lǜchá,green tea
+n,马,mǎ,horse
+n,毛 （名）,máo （ míng）,hair  
+n,毛病,máobìng,Fault
+n,媒体,méitǐ,media
+n,美食,měishí,Gourmet food
+n,美术,měishù,art
+n,美元,Měiyuán,U.S. dollar
+n,米 （名）,mǐ （ míng）,Meter  
+n,面积,miànjī,area
+n,民间,mínjiān,folk
+n,民族,mínzú,Nationality
+n,命运,mìngyùn,fate
+n,母亲,mǔqīn,mother
+n,木头,mùtou,wood
+n,目标,mùbiāo,the goal
+n,奶茶,nǎichá,Milk tea
+n,男子,nánzǐ,man
+n,南部,nánbù,South
+n,内容,nèiróng,content
+n,内心,nèixīn,heart
+n,能力,nénglì,ability
+n,牛 （名）,niú （ míng）,Cattle  
+n,农村,nóngcūn,Rural area
+n,农民,nóngmín,Farmer
+n,农业,nóngyè,agriculture
+n,女子,nǚzǐ,woman
+n,排名,páimíng,Rank
+n,牌子,páizi,brand
+n,皮,pí,skin
+n,皮包,píbāo,Purses
+n,啤酒,píjiǔ,beer
+n,票价,piàojià,fare
+n,苹果,píngguǒ,apple
+n,气候,qìhòu,climate
+n,桥,qiáo,bridge
+n,亲,qīn,Dear
+n,亲人,qīnrén,Relatives
+n,情感,qínggǎn,emotion
+n,情况,qíngkuàng,Happening
+n,球迷,qiúmí,fan
+n,全场,quánchǎng,Audience
+n,全面,quánmiàn,comprehensive
+n,全球,quánqiú,global
+n,缺点,quēdiǎn,Disadvantage
+n,裙子,qúnzi,skirt
+n,人才,réncái,Talents
+n,人工,réngōng,Artificial
+n,人类,rénlèi,Humanity
+n,人民,rénmín,people
+n,人民币,rénmínbì,Renminbi
+n,人群,rénqún,crowd
+n,人生,rénshēng,life
+n,人员,rényuán,personnel
+n,沙发,shāfā,sofa
+n,沙子,shāzi,sand
+n,商品,shāngpǐn,commodity
+n,商业,shāngyè,business
+n,上面,shàngmian,Above
+n,上衣,shàngyī,coat
+n,设备,shèbèi,equipment
+n,设计,shèjì,design
+n,社会,shèhuì,society
+n,身份证,shēnfènzhèng,ID card
+n,生命,shēngmìng,life
+n,生意,shēngyì,business
+n,石头,shítou,stone
+n,石油,shíyóu,oil
+n,时,shí,Time
+n,时代,shídài,era
+n,时刻,shíkè,time
+n,实力,shílì,strength
+n,实验,shíyàn,experiment
+n,实验室,shíyànshì,laboratory
+n,食品,shípǐn,food
+n,世界,shìjiè,world
+n,世界杯,Shìjièbēi,World Cup
+n,市场,shìchǎng,market
+n,事故,shìgù,accident
+n,事件,shìjiàn,event
+n,事实,shìshí,fact
+n,事业,shìyè,cause
+n,试题,shìtí,Test questions
+n,室,shì,room
+n,收音机,shōuyīnjī,radio
+n,手续,shǒuxù,formalities
+n,手指 ,shǒuzhǐ,Finger
+n,首都 ,shǒudū,Capital
+n,书架 ,shūjià,Bookshelf
+n,熟人,shúrén,acquaintance
+n,数量 ,shùliàng,Quantity
+n,双方 ,shuāngfāng,Both sides
+n,思想 ,sīxiǎng,Thoughts
+n,速度 ,sùdù,Speed
+n,汤 ,tāng,soup 
+n,糖 ,táng,Sugar
+n,特色 ,tèsè,Feature
+n,题目 ,tímù,Topic
+n,天空 ,tiānkōng,Sky
+n,铁 ,tiě,Iron
+n,铁路,tiělù,railway
+n,听力,tīnglì,hearing
+n,听众,tīngzhòng,audience
+n,头脑 ,tóunǎo,Mind
+n,图 ,tú,Figure
+n,图画 ,túhuà,Picture
+n,土 （名） ,tǔ （ míng）,Soil
+n,团体 ,tuántǐ,Group
+n,外交 ,wàijiāo,Diplomacy
+n,外面 ,wàimiàn,Outside
+n,外文 ,wàiwén,Foreign language
+n,玩具 ,wánjù,Toys
+n,卫生间,wèishēngjiān,bathroom
+n,文化 ,wénhuà,Culture
+n,文件 ,wénjiàn,File
+n,文明 ,wénmíng,Civilization
+n,文学 ,wénxué,Literature
+n,文章 ,wénzhāng,Articles
+n,文字 ,wénzì,Text
+n,武器 ,wǔqì,Weapon
+n,武术 ,wǔshù,Martial arts
+n,舞台 ,wǔtái,Stage
+n,西部 ,xībù,West
+n,系 ,xì,Department
+n,下面 ,xiàmian,Below
+n,现金 ,xiànjīn,Cash
+n,现实 ,xiànshí,Reality
+n,现象,xiànxiàng,phenomenon
+n,香蕉,xiāngjiāo,banana
+n,消息 ,xiāoxi,News
+n,效果 ,xiàoguǒ,Effect
+n,血 ,xuè,Blood
+n,心,xīn,heart
+n,信封,xìnfēng,envelope
+n,行李,xíngli,Baggage
+n,形式,xíngshì,form
+n,形象 ,xíngxiàng,Image
+n,形状 ,xíngzhuàng,Shape
+n,幸福 ,xìngfú,Happiness
+n,幸运 ,xìngyùn,Lucky
+n,性（积极性) ,xìng（ jījíxìng),Sex
+n,性别 ,xìngbié,Sex
+n,性格 ,xìnggé,Character
+n,选手 ,xuǎnshǒu,Player
+n,学费 ,xuéfèi,Tuition
+n,压力 ,yālì,Stress
+n,烟 ,yān,Smoke
+n,演唱会,yǎnchànghuì,concert
+n,演员,yǎnyuán,actor
+n,羊,yáng,sheep
+n,阳光,yángguāng,sunlight
+n,衣架,yījià,hanger
+n,艺术,yìshù,art
+n,意外,yìwài,accident
+n,意义,yìyì,significance
+n,银牌,yínpái,silver medal
+n,印象,yìnxiàng,impression
+n,营养,yíngyǎng,nutrition
+n,影视,yǐngshì,Film and television
+n,优点,yōudiǎn,advantage
+n,优势,yōushì,Advantage
+n,邮件,yóujiàn,mail
+n,邮票,yóupiào,stamp
+n,邮箱,yóuxiāng,mailbox
+n,游戏,yóuxì,game
+n,员（服务员）,yuán（ fúwùyuán）,member 
+n,员工,yuángōng,Staff
+n,愿望,yuànwàng,desire
+n,乐队,yuèduì,band
+n,杂志,zázhì,magazine
+n,责任,zérèn,responsibility
+n,者（志愿者）,zhě（ zhìyuànzhě）,By 
+n,证件,zhèngjiàn,Certificate
+n,证据,zhèngjù,evidence
+n,职工 ,zhígōng,Employee
+n,职业 ,zhíyè,Profession
+n,志愿 ,zhìyuàn,Volunteer
+n,志愿者 ,zhìyuànzhě,Volunteers
+n,制度 ,zhìdù,System
+n,中部 ,zhōngbù,Central
+n,中华民族,Zhōnghuámínzú,Chinese nation
+n,钟 ,zhōng,Bell
+n,种子 ,zhǒngzi,Seed
+n,猪 ,zhū,Pig
+n,主任 ,zhǔrèn,Director
+n,主意 ,zhǔyi,Idea
+n,专家 ,zhuānjiā,Expert
+n,专门 ,zhuānmén,Specialized
+n,状况 ,zhuàngkuàng,Condition
+n,状态 ,zhuàngtài,State
+n,资格 ,zīgé,Qualification
+n,资金 ,zījīn,Funds
+n,子女,zǐnǚ,child
+n,自然,zìrán,natural
+n,自身,zìshēn,itself
+n,足球,zúqiú,football
+n,组合,zǔhé,combination
+n,作品,zuòpǐn,works
+n,作者,zuòzhě,Author
+n,屋子 ,wūzi,House
+n,线 ,xiàn,Line
+mw,把 （量）,bǎ （ liáng）,Put
+mw,群,qún,group
+mw,束,shù,bundle
+mw,双 ,shuāng,double 
+mw,台 ,tái,Taiwan
+mw,团 ,tuán,Regiment
+mw,张,zhāng,Zhang
+mw,支（量）,zhī（ liáng）,measure word
+mw,只,zhǐ,only
+conj,并且,bìngqiě,and
+conj,因此,yīncǐ,therefore
+adv,白 （副）,bái （ fù）,White  
+adv,本来,běnlái,originally
+adv,并 （副，连）,bìng （ fù， lián）,and  
+adv,不断,bùduàn,Keep on
+adv,超级,chāojí,super
+adv,当初,dāngchū,At the beginning
+adv,立刻,lìkè,Immediately
+adv,怕 （副）,pà （ fù）,afraid  
+adv,其实,qíshí,in fact
+adv,实际上,shíjìshàng,Actually
+adv,首先 ,shǒuxiān,first of all 
+adv,通常,tōngcháng,usually
+adv,往往 ,wǎngwǎng,Often
+adv,相当 ,xiāngdāng,Quite
+adv,终于 ,zhōngyú,at last 
+adv,总是,zǒngshì,always
+adj,不安,bù'ān,disturbed
+adj,彩色,cǎisè,color
+adj,长期,chángqī,long
+adj,吵,chǎo,noisy
+adj,成熟,chéngshú,mature
+adj,重,zhòng,weight
+adj,初步,chūbù,preliminary
+adj,初级,chūjí,primary
+adj,创新,chuàngxīn,Innovation
+adj,错误,cuòwù,error
+adj,大概,dàgài,probably
+adj,动人,dòngrén,moving
+adj,丰富,fēngfù,rich
+adj,复杂,fùzá,complex
+adj,共同,gòngtóng,common
+adj,广大 ,guǎngdà,Vast
+adj,害怕,hàipà,Scared
+adj,欢乐 ,huānlè,Joy
+adj,结实,jiēshi,solid
+adj,紧,jǐn,tight
+adj,紧急,jǐnjí,urgent
+adj,紧张,jǐnzhāng,tension
+adj,近期,jìnqī,Recent
+adj,精彩,jīngcǎi,wonderful
+adj,静,jìng,Quiet
+adj,久,jiǔ,Long
+adj,旧,jiù,old
+adj,具体,jùtǐ,specific
+adj,可靠,kěkào,reliable
+adj,客观,kèguān,objective
+adj,空,kōng,air
+adj,困,kùn,sleepy
+adj,困难,kùnnan,difficult
+adj,浪费,làngfèi,waste
+adj,乐,lè,fun
+adj,乱,luàn,Chaos
+adj,落后,luòhòu,behind
+adj,麻烦,máfan,trouble
+adj,满足,mǎnzú,Satisfy
+adj,美丽,měilì,beautiful
+adj,暖和,nuǎnhuo,warm
+adj,胖,pàng,fat
+adj,破,pò,broken
+adj,普遍,pǔbiàn,universal
+adj,奇怪,qíguài,strange
+adj,强大,qiángdà,powerful
+adj,容易,róngyì,easy
+adj,伤心,shāngxīn,sad
+adj,深,shēn,deep
+adj,深刻,shēnkè,profound
+adj,生 （形）,shēng （ xíng）,Give birth
+adj,生动,shēngdòng,vivid
+adj,适用,shìyòng,Be applicable
+adj,甜 ,tián,Sweet
+adj,痛（形）,tòng（ xíng）,Pain
+adj,痛苦,tòngkǔ,pain
+adj,头（形） ,tóu（ xíng）,head
+adj,完美 ,wánměi,Perfect
+adj,完整 ,wánzhěng,Complete
+adj,危险 ,wēixiǎn,Danger 
+adj,伟大 ,wěidà,Great
+adj,卫生 ,wèishēng,Sanitation
+adj,温暖 ,wēnnuǎn,Warm
+adj,相关 ,xiāngguān,Related
+adj,相似 ,xiāngsì,Similar
+adj,香 ,xiāng,Fragrant 
+adj,银,yín,silver
+adj,有效,yǒuxiào,effective
+adj,真实,zhēnshí,real
+adj,重大 ,zhòngdà,Significant
+adj,专业 ,zhuānyè,profession 
+adj,足够,zúgòu,enough
+prep,按,àn,press
+prep,按照,ànzhào,according to
+prep,把 （介）,bǎ （ jiè）,Put
+v,把握,bǎwò,to grasp
+prep,被,bèi,Be
+adv,比较,bǐjiào,Compare
+n,比例,bǐlì,proportion
+adv,必然,bìrán,inevitable
+adj,必要,bìyào,necessary
+adv,不必,bùbì,Don't have to
+adv,不论,bùlùn,whether
+v,不得不,bùdébù,have to
+adv,不光,bùguāng,not only
+adv,不仅,bùjǐn,not only
+adv,曾经,céngjīng,once
+prep,朝,cháo,towards
+v,称为,chēngwéi,to be called
+v,持续,chíxù,to continue
+v,充满,chōngmǎn,to fullfill
+pron,初,chū,early
+adv,除了,chúle,apart from
+n,传说,chuánshuō,legend
+adv,从来,cónglái,Never
+adv,从前,cóngqián,Before
+v,从事,cóngshì,Engage in
+v,存,cún,to Save
+n,存在,cúnzài,exist
+adv,大约,dàyuē,about
+adv,当地,dāngdì,local
+adv,当然,dāngrán,of course
+adv,当中,dāngzhōng,among
+adv,到底,dàodǐ,in the end
+v,得分,défēn,to get score
+adv,定期,dìngqī,regular
+adj,短期,duǎnqī,short term
+v,断,duàn,to cut off
+n,对手,duìshǒu,opponent
+mw,顿,dùn,pause
+v,发表,fābiǎo,to publish
+v,反复,fǎnfù,to repeate
+n,反应,fǎnyìng,reaction
+adv,反正,fǎnzhèng,Anyway
+v,仿,fǎng,to imitate
+adv,分别,fēnbié,respectively
+adj,富,fù,rich
+v,改进,gǎijìn,to improve
+v,改造,gǎizào,to retrofit
+v,赶,gǎn,to rush
+v,赶到,gǎndào,to arrive
+adv,赶紧 ,gǎnjǐn,Hurry up
+adv,赶快,gǎnkuài,hurry up
+v,敢,gǎn,dare
+v,感冒,gǎnmào,to have a cold
+n,感情,gǎnqíng,feeling
+v,感受,gǎnshòu,to feel
+phrase,干吗,gànmá,Why
+v,告别,gàobié,to farewell
+n,个人 ,gèrén,Personal
+n,个性,gèxìng,personality
+pron,各,gè,each
+pron,各地,gèdì,Everywhere
+pron,各位,gèwèi,Everybody
+pron,各种,gèzhǒng,Various
+adv,各自,gèzì,respective
+adv,根本,gēnběn,fundamental
+adv,更加,gèngjiā,more
+v,公布,gōngbù,to announce
+adj,公共,gōnggòng,public
+v,公开 ,gōngkāi,to disclose
+n,公民,gōngmín,citizen
+adv,共有,gòngyǒu,Share
+adj,古,gǔ,ancient
+n,古代,gǔdài,Ancient
+v,挂,guà,to hang
+v,关注,guānzhù,to pay attention 
+n,规定 ,guīdìng,Stipulate
+adj,规范,guīfàn,specification
+n,国内,guónèi,domestic
+n,国庆,Guóqìng,National Day
+adv,果然,guǒrán,really
+n,果汁,guǒzhī,fruit juice
+n,过程,guòchéng,process
+interj,哈哈,hāhā,Haha
+v,行,xíng,to walk
+phrase,好好,hǎohǎo,Good
+adj,好奇,hàoqí,curious
+v,合,hé,to combine
+adj,合法,héfǎ,legitimate
+adj,合格,hégé,qualified
+adj,合理,hélǐ,reasonable
+v,合作,hézuò,to cooperate
+n,和平,hépíng,peace
+n,后果,hòuguǒ,as a result of
+n,后面,hòumian,Behind
+n,后年,hòunián,The next year
+adv,互相,hùxiāng,each other
+v,化 （现代化）,huà （ xiàndàihuà）,Transform
+n,环,huán,ring
+n,环保 ,huánbǎo,Environmental protection
+adj,活,huó,live
+adj,积极,jījí,positive
+adv,基本,jīběn,Basic
+phrase,基本上,jīběnshang,basically
+n,基础,jīchǔ,basis
+adv,及时,jíshí,timely
+phrase,…极了,… jíle,…Extremely
+n,集体,jítǐ,collective
+n,集中,jízhōng,concentrated
+n,纪录,jìlù,Record
+n,技术,jìshù,technology
+adj,坚实,jiānshí,solid
+adj,坚决,jiānjué,Resolutely
+adj,坚强 ,jiānqiáng,Strong
+adj,简单,jiǎndān,simple
+adj,简直,jiǎnzhí,simply
+adv,将近,jiāngjìn,nearly
+n,将来,jiānglái,future
+v,交费,jiāo fèi,to pay
+adv,较,jiào,More
+adv,仅,jǐn,only
+adv,仅仅,jǐnjǐn,only
+adv,尽量,jǐnliàng,Try to
+n,进步,jìnbù,progress
+phrase,进一步,jìnyībù,further
+v,进展,jìnzhǎn,to progress
+adv,就是,jiùshì,Just
+v,就业,jiùyè,to get a job
+v,具有,jùyǒu,t have
+n,剧场,jùchǎng,theater
+adv,据说,jùshuō,It is said that
+v,决定,juédìng,to decide
+n,决赛,juésài,finals
+n,决心,juéxīn,determination
+adv,绝对,juéduì,absolute
+phrase,看起来,kànqǐlái,It looks like
+phrase,看上去,kànshangqu,It looks like
+v,恐怕,kǒngpà,be afraid
+n,空儿,kòngr,Empty
+adj,快速,kuàisù,fast
+adj,乐观,lèguān,optimism
+n,类,lèi,class
+adv,类似,lèisì,similar
+conj,连,lián,even
+adv,连忙,liánmáng,Hurriedly
+adv,连续,liánxù,continuous
+part,了,le,particle
+v,领,lǐng,to lead
+adj,领先,lǐngxiān,Lead
+pron,另外,lìngwài,In addition
+phrase,另一方面,lìngyīfāngmiàn,on the other hand
+n,龙,lóng,Long
+adv,慢慢,mànmàn,Slowly
+adj,没用,méiyòng,Useless
+pron,每,měi,each
+adj,美,měi,nice
+adj,美好,měihǎo,Beautiful
+n,迷,mí,fan
+adj,明确,míngquè,clear
+adj,明显,míngxiǎn,obvious
+pron,某,mǒu,certain
+adv,目前,mùqián,Currently
+adv,难道,nándào,Is it
+n,难度,nándù,Difficulty
+n,内,nèi,Inside
+phrase,能不能,néng bùnéng,Can you
+n,年初,niánchū,The beginning of the year
+n,年代,niándài,Years
+n,年底,niándǐ,End of the year
+n,年纪,niánjì,age
+v,念,niàn,"to read, to miss"
+v,拍,pāi,to shoot
+adj,普及,pǔjí,universal
+n,期,qī,period
+adj,齐,qí,Qi
+adv,其次,qícì,Secondly
+adv,千万,qiānwàn,Ten million
+n,前后,qiánhòu,Before and after
+v,前进,qiánjìn,go ahead
+n,前面,qiánmiàn,front
+v,前往,qiánwǎng,Go to
+adj,强,qiáng,Strong
+adj,强烈,qiángliè,strong
+adj,巧,qiǎo,Clever
+adj,亲切,qīnqiè,kind
+mw,区,qū,Area
+adj,热烈,rèliè,warm
+conj,任 （连）,rèn （ lián）,Ren
+adv,任何,rènhé,any
+n,任务,rènwu,task
+adv,仍,réng,still
+adv,仍然,réngrán,still
+n,日常,rìcháng,daily
+adv,如何,rúhé,how is it
+v,散步,sànbù,Take a walk
+v,深入,shēnrù,to go deep
+v,使,shǐ,to make
+adv,始终,shǐzhōng,Always
+n,世纪,shìjì,century
+phrase,事实上,shìshíshàng,In fact
+prep,受 ,shòu,Receive
+v,属,shǔ,belong to
+v,属于,shǔyú,belong
+prep,随 ,suí,Follow
+n,所长 ,suǒcháng,Director
+adv,提前 ,tíqián,in advance 
+v,体现 ,tǐxiàn,to present 
+v,突出,tūchū,to extrude 
+adv,突然 ,tūrán,Suddenly
+n,危害 ,wēihài,Harm
+prep,围 ,wéi,Encircle
+conj,为了 ,wèile,For
+adj,先进,xiānjìn,advanced
+adj,显然 ,xiǎnrán,Obviously
+n,现场 ,xiànchǎng,on site 
+n,现代 ,xiàndài,Modern
+v,相比 ,xiāngbǐ,to compare 
+adv,相互 ,xiānghù,Mutual
+v,压 ,yā,to press
+adv,眼前,yǎnqián,In front of
+conj,要是,yàoshi,if
+pron,一切,yīqiè,all
+adv,已,yǐ,Already
+adv,以来,yǐlái,since
+phrase,一方面,yīfāngmiàn,on the one hand
+v,应当,yīngdāng,should
+prep,由,yóu,by
+conj,由于,yóuyú,due to
+phrase,有的是,yǒudeshì,Some are
+adj,有利,yǒulì,favorable
+adv,约,yuē,approximately
+adv,早已,zǎoyǐ,Already
+v,争,zhēng,to contend
+pron,整,zhěng,whole
+n,整个,zhěnggè,entire
+v,整理,zhěnglǐ,to sort out
+adj,整齐,zhěngqí,neat
+n,整体,zhěngtǐ,overall
+adv,整天,zhěngtiān,All day
+adv,整整,zhěngzhěng,full
+adj,正（形）,zhèng（ xíng）,Positive
+adj,正式,zhèngshì,formal
+v,证,zhèng,to certificate
+adj,直,zhí,straight
+v,直播 ,zhíbō,to live broadcast
+adv,直到 ,zhídào,Until
+v,值 ,zhí,Value
+v,值得 ,zhíde,be worth it 
+adv,只好 ,zhǐhǎo,Had to
+adv,只是 ,zhǐshì,Just
+conj,只有 ,zhǐyǒu,Only
+adv,至今 ,zhìjīn,to date 
+adv,至少 ,zhìshǎo,at least 
+n,周围 ,zhōuwéi,Around
+v,主张 ,zhǔzhāng,to claim
+n,专题 ,zhuāntí,Topic
+v,转变 ,zhuǎnbiàn,to change
+adj,准 ,zhǔn,Quasi
+prep,自从,zìcóng,since
+adj,自觉,zìjué,conscious
+adj,自主,zìzhǔ,Autonomy
+adj,总,zǒng,total
+v,总结,zǒngjié,to sum up
+adv,左右,zuǒyòu,about
