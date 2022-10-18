@@ -1,8 +1,10 @@
-package T;
+package T.WordTranslator;
+
+import T.WordTranslator.ImportCSV;
 
 import java.util.*;
 
-import static T.T.findSimilarity;
+import static T.WordTranslator.T.findSimilarity;
 
 
 public class Search {

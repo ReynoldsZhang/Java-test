@@ -1,4 +1,4 @@
-package T;
+package T.WordTranslator;
 
 import java.util.ArrayList;
 

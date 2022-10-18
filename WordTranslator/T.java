@@ -1,4 +1,4 @@
-package T;
+package T.WordTranslator;
 
 public class T {
     public static int getLevenshteinDistance(String X, String Y)

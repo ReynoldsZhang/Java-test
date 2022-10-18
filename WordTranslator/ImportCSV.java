@@ -1,4 +1,4 @@
-package T;
+package T.WordTranslator;
 
 import java.io.*;
 import java.util.*;
