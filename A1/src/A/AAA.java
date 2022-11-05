@@ -14,18 +14,10 @@ public class AAA {
         String line;
 
         while ((line = br.readLine()) != null){
-            line.replace("\"", "");
-            line.replace("/", "'");
-            line.replace('(', '.');
-            line.replace(')', '.');
-
             String[] array = line.split(",");
 
             this.chineseWords.add(array[1]);
-            ArrayList<String> addList = new ArrayList<>();
-            for (int i = 3; i < array.length; i++) {
-                addList.add(array[i]);
-            }
+            ArrayList<String> addList = new ArrayList<>(Arrays.asList(array).subList(3, array.length));
             this.englishWords.add(addList);
             //System.out.println(this.chineseWords.get(0).length);
 
