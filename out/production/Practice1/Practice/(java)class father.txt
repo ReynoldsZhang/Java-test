@@ -1,0 +1,25 @@
+```java
+package test;
+
+public class father {
+    int he = 12;//��Щ���ǳ�Ա����
+    double high;
+    private int iq;
+    final int ez = 12;//fianl���εķ����޷�������̳�
+
+
+
+    public void mHe(){
+        int he = 190;
+        System.out.println(he);
+    }
+
+    /*
+    public father(int a,int b){
+        // int he = 112;
+        // double high = 1.85;
+        System.out.println(a+b);
+     */
+}
+
+```
