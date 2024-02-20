@@ -1,4 +1,4 @@
-```java
+
 package train;
 
 import java.util.ArrayList;
@@ -13,7 +13,7 @@ public class random {
         System.out.println(randomSplit(arrayList, new Scanner(System.in).nextInt()));
     }
 
-    public static ArrayList<ArrayList<String>> randomSplit(ArrayList<String> arrayList, int num){
+public static ArrayList<ArrayList<String>> randomSplit(ArrayList<String> arrayList, int num){
         ArrayList<ArrayList<String>> arr;
         try {
             arr = split(arrayList, num);
@@ -60,4 +60,3 @@ public class random {
         }
     }
 }
-```

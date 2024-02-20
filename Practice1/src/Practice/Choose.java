@@ -1,20 +1,14 @@
-```java
-package test;
+
+package Practice;
 
 public class Choose {
     public static void main(String[] args) {
-        float[] solu = new Choose().solveEquation(new float[]{3, 4, 7}, new float[]{2, -1, 1});
+        float[] solu = new Choose().solveEquation(new float[]{2, 4, -4}, new float[]{5, 7, 11});
         for (float v : solu) {
             System.out.println(v);
         }
     }
 
-    /**
-     * ����Ԫһ�η�����
-     * @param arr1
-     * @param arr2
-     * @return
-     */
     public float[] solveEquation(float[] arr1,float[] arr2){
         float a = arr1[0];
         float b = arr2[0];
@@ -30,4 +24,3 @@ public class Choose {
         return new float[]{x, y};
     }
 }
-```
